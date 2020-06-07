@@ -1,0 +1,5 @@
+[Finding secrets by decompiling Python bytecode in public repositories](https://blog.jse.li/posts/pyc)
+[Lightweight Local DB using JSON](https://github.com/typicode/lowdb)
+[Slack more tightly integrated with Amazon services :unamused:](https://www.theverge.com/2020/6/4/21280829/slack-amazon-aws-partnership-amazon-chime-voice-video-calls) (but this could mean better slack calls)
+[Custom Blog using JS-focused Stack](https://sgolem.com/building-an-easy-on-the-eyes-ikea-style-blog-in-no-time-for-free-again/)
+[Neat JS Library for Hand-Drawn Annotations](https://roughnotation.com/)
