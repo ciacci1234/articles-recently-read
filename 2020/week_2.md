@@ -1,0 +1,8 @@
+[Note Link Janitor](https://github.com/andymatuschak/note-link-janitor)
+[The Day AppGet Died](https://keivan.io/the-day-appget-died/)
+[responsivedesign.is](https://responsivedesign.is/)
+[Mulitenancy Approaches in Rails Apps](https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/)
+[Rambulance](https://github.com/yuki24/rambulance)
+[Livegrep](https://github.com/livegrep/livegrep)
+[Talking About Software at Scale](https://deniseyu.io/2020/05/21/talking-about-software-at-scale.html)
+[Google Cloud Outage](https://static.googleusercontent.com/media/www.google.com/en//appsstatus/ir/gs90uytx333eqid.pdf)
