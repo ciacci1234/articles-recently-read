@@ -3,3 +3,6 @@
 [Slack more tightly integrated with Amazon services :unamused:](https://www.theverge.com/2020/6/4/21280829/slack-amazon-aws-partnership-amazon-chime-voice-video-calls) (but this could mean better slack calls)
 [Custom Blog using JS-focused Stack](https://sgolem.com/building-an-easy-on-the-eyes-ikea-style-blog-in-no-time-for-free-again/)
 [Neat JS Library for Hand-Drawn Annotations](https://roughnotation.com/)
+[AWS One Liners](https://adayinthelifeof.nl/2020/05/20/aws.html)
+[Root SSL Cert Expired Story](https://nakedsecurity.sophos.com/2020/06/02/the-mystery-of-the-expiring-sectigo-web-certificate/)
+[Google SRE Tips](https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles) 
