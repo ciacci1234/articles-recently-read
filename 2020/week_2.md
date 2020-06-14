@@ -1,8 +1,16 @@
-[Note Link Janitor](https://github.com/andymatuschak/note-link-janitor)
-[The Day AppGet Died](https://keivan.io/the-day-appget-died/)
-[responsivedesign.is](https://responsivedesign.is/)
-[Mulitenancy Approaches in Rails Apps](https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/)
-[Rambulance](https://github.com/yuki24/rambulance)
-[Livegrep](https://github.com/livegrep/livegrep)
-[Talking About Software at Scale](https://deniseyu.io/2020/05/21/talking-about-software-at-scale.html)
-[Google Cloud Outage](https://static.googleusercontent.com/media/www.google.com/en//appsstatus/ir/gs90uytx333eqid.pdf)
+- **Neat-looking but also wild and wacky notes tool** 
+  - https://github.com/andymatuschak/note-link-janitor
+- **Story about Microsoft treating an OS maintainer for an important Windows project poorly**
+  - https://keivan.io/the-day-appget-died/
+- **Interesting site about all things front-end**
+  - https://responsivedesign.is/
+- :star: **Mulitenancy Approaches in Rails Apps** :star:
+  - https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/
+- :star: **Dynamically Render Errors Pages in Rails Apps** :star:
+  - https://github.com/yuki24/rambulance
+- **Real-time search over large codebases**
+  - https://github.com/livegrep/livegrep
+- **Software at Scale** -within the context of an interview, but still good considerations to take note of
+  - https://deniseyu.io/2020/05/21/talking-about-software-at-scale.html
+- **Google Cloud Incident Report** - Even google engineers unintentionally revoke permissions they shouldn't have   
+  - https://static.googleusercontent.com/media/www.google.com/en//appsstatus/ir/gs90uytx333eqid.pdf
