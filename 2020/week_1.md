@@ -1,14 +1,28 @@
-[Common Mistakes in K8s](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
-[Lightweight CSS Library called Lit](https://github.com/ajusa/lit)
-[Story on Migrating Rails apps from older Ruby versions to newer Ruby versions ](https://blog.arkency.com/upgrading-a-trivial-rails-app-from-ruby-2-dot-3-dot-1-to-2-dot-7-and-from-rails-4-dot-2-dot-6-to-6-dot-0-dot-3/)
-[Fostering a Culture of Written Communication](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication)
-[Comprehensive (IMO) List of UX Considerations](https://growth.design/psychology/)
-[Making Peace With Root Cause During Anomaly Response](https://surfingcomplexity.blog/2020/05/13/making-peace-with-root-cause-during-anomaly-response/)
-[Five Causes of Poor Availability To Watch Out For](https://diginomica.com/five-causes-poor-availability-watch-out)
-[Resilience Engineering](https://github.com/lorin/resilience-engineering)
-[Migrate Capybara Webkit to Webdrivers](https://www.fastruby.io/blog/rails/upgrades/how-to-migrate-from-capybara-webkit-to-webdrivers.html)
-[Ruby As APL](https://zverok.github.io/blog/2020-05-16-ruby-as-apl.html)
-[Debugging Slow Code in Ruby](https://engineering.shopify.com/blogs/engineering/how-fix-slow-code-ruby)
-[Why You Can't Just Ask Why](https://surfingcomplexity.blog/2020/05/22/why-you-cant-just-ask-why/)
-[Scale](https://rachelbythebay.com/w/2020/05/06/scale/)
-[A Note On Commit Messages](https://bitcrowd.dev/a-note-on-commit-messages)
+- **Common Mistakes in Kubernetes**
+  - https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/
+- **Lightweight CSS Library called Lit**
+  - https://github.com/ajusa/lit
+- **Migrating Rails app (ruby 2.3.1 -> 2.7, rails 4.2.6 -> 6.0.3)**
+  - https://blog.arkency.com/upgrading-a-trivial-rails-app-from-ruby-2-dot-3-dot-1-to-2-dot-7-and-from-rails-4-dot-2-dot-6-to-6-dot-0-dot-3/
+- **Encouraging a Culture of Written Communication** 
+  - https://www.mcls.io/blog/encouraging-a-culture-of-written-communication
+- **Comprehensive (IMO) List of UX Considerations**
+  - https://growth.design/psychology/
+- **Making Peace With Root Cause During Anomaly Response**
+  - https://surfingcomplexity.blog/2020/05/13/making-peace-with-root-cause-during-anomaly-response/
+- **Five Causes of Poor Availability To Watch Out For**
+  - https://diginomica.com/five-causes-poor-availability-watch-out
+- **Resilience Engineering Resources**
+  - https://github.com/lorin/resilience-engineering
+- **Migrate Capybara Webkit to Webdrivers**
+  - https://www.fastruby.io/blog/rails/upgrades/how-to-migrate-from-capybara-webkit-to-webdrivers.html
+- **Ruby As APL - Game of Life**
+  - https://zverok.github.io/blog/2020-05-16-ruby-as-apl.html
+- **Debugging Slow Code in Ruby**
+  - https://engineering.shopify.com/blogs/engineering/how-fix-slow-code-ruby
+- **Why You Can't Just Ask Why**
+  - https://surfingcomplexity.blog/2020/05/22/why-you-cant-just-ask-why/
+- **Critique of Cloud World**
+  - https://rachelbythebay.com/w/2020/05/06/scale/
+- **A Note On Commit Messages**
+  - https://bitcrowd.dev/a-note-on-commit-messages
