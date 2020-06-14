@@ -1,4 +1,4 @@
-- **Common Mistakes in Kubernetes**
+- :star: **Common Mistakes in Kubernetes** :star:
   - https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/
 - **Lightweight CSS Library called Lit**
   - https://github.com/ajusa/lit
@@ -14,7 +14,7 @@
   - https://diginomica.com/five-causes-poor-availability-watch-out
 - **Resilience Engineering Resources**
   - https://github.com/lorin/resilience-engineering
-- **Migrate Capybara Webkit to Webdrivers**
+- :star: **Migrate Capybara Webkit to Webdrivers** :star:
   - https://www.fastruby.io/blog/rails/upgrades/how-to-migrate-from-capybara-webkit-to-webdrivers.html
 - **Ruby As APL - Game of Life**
   - https://zverok.github.io/blog/2020-05-16-ruby-as-apl.html
