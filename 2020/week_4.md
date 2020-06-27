@@ -1,6 +1,24 @@
 - **Opinion on K8s from the Director of Engineering at Coinbase** I still have a substantial distrust of any company wheeling and dealing in the blockchain world, but I think the points discussed about the Kubernetes platform, especially with regards to securing K8s are well-taken 
   - https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c
-https://makelinux.github.io/kernel/map/
-https://scotthelme.co.uk/impending-doom-root-ca-expiring-legacy-clients/
-https://victorzhou.com/blog/csrf/
-https://sericaia.me/blog/2020-06-08/how-i-fixed-accessibility-on-my-website-and-how-you-can-fix-yours
+- **Neat Visualization of Kernel Processes** 
+  - https://makelinux.github.io/kernel/map/
+- **The Challenge of Expiring SSL Certs**
+  - https://scotthelme.co.uk/impending-doom-root-ca-expiring-legacy-clients/
+- **Simple Demo of CSRF Vulnerability** 
+  - https://victorzhou.com/blog/csrf/
+- **Story on Making Your Site Accessible**
+  - https://sericaia.me/blog/2020-06-08/how-i-fixed-accessibility-on-my-website-and-how-you-can-fix-yours
+- **(Opinion) Apple's Gross App Store Policies** (though truthfully none of the big companies running marketplaces are exactly fair)
+  - https://daringfireball.net/linked/2020/06/19/swisher-app-store-hey
+- :star: **HTTPS (and CDN providers) are still vulnerable, just less so** :star: This is a nice little writeup to caution developers that services provided by companies such as Cloudflare, for example ensuring your site's traffic is served over HTTPS, are still vulnerable to security issues.   
+  - https://vec.io/posts/https-is-not-secure-enough-for-api
+- **Decent explanation of CORS stuff**
+  - https://www.arbazsiddiqui.me/cors-understanding-cross-origin-resource-sharing/
+- **Github's Linter** 
+  - https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/
+- **Service Objects in Rails** 
+  - https://blog.appsignal.com/2020/06/17/using-service-objects-in-ruby-on-rails.html
+- **Open Source tools Pew's released**
+  - https://medium.com/pew-research-center-decoded/introducing-pew-research-centers-python-libraries-e2ee8f8fd04d
+- :star: **Great Story on a Bug Bounty leveraging API Vulnerabilities** :star:
+  - https://samcurry.net/hacking-starbucks/
