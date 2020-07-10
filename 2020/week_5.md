@@ -1,8 +1,19 @@
-https://medium.com/@bellmar/old-code-gets-younger-every-year-3bd24c7f2262
-https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications
-https://robertheaton.com/remote-code-execution-kensingtonworks/
-https://engineering.linkedin.com/blog/2020/the-impact-of-slow-nfs-on-data-systems
-https://pradeeploganathan.com/patterns/circuit-breaker-pattern/
-https://github.com/raphaelreyna/oneshot
-https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html
-https://jvns.ca/blog/2020/06/28/entr/
+- **Technology and Job Opps in that Technology Over Time** (Java, Cobalt examples)
+  - https://medium.com/@bellmar/old-code-gets-younger-every-year-3bd24c7f2262
+- **Text Search Features in Postgresql**
+  - https://emre.xyz/searching-with-the-power-of-postgresql-in-symfony-applications
+- **Software's Not Secure Pt.797** 
+  - https://robertheaton.com/remote-code-execution-kensingtonworks/
+- **Circuit Breaker Pattern** 
+  - https://pradeeploganathan.com/patterns/circuit-breaker-pattern/
+  - Throwback Article on the Same Subject: https://engineering.shopify.com/blogs/engineering/circuit-breaker-misconfigured
+- **Singe-Use HTTP Server(?)**
+  - https://github.com/raphaelreyna/oneshot
+- **SQL Keys Explanation**
+  - https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html
+- **Some Kind of Makefile-y/File watcher type of utility**
+  - https://jvns.ca/blog/2020/06/28/entr/
+- **All About State Machines**
+  - https://github.com/leonardomso/awesome-fsm
+- **Interesting looking VS Code plugin**
+  - https://github.com/snipsnapdev/snipsnap
