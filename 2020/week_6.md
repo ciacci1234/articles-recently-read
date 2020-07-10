@@ -1,0 +1,20 @@
+- **Algorithms in JS**
+  - https://github.com/trekhleb/javascript-algorithms
+- **IFFF type of service but in Ruby**
+  - https://github.com/huginn/huginn
+- **Rails application boilerplate examples**
+  - https://everydayrails.com/2020/07/06/modular-rails-templates-rails-bytes.html
+- **Approach to Organizing Rails Routes**
+  - https://medium.com/rubycademy/how-to-keep-your-routes-clean-in-ruby-on-rails-f7cf348ec13b
+- **organizational tool for VS Code**
+  - https://foambubble.github.io/foam/
+- **Using Subqueries in ActiveRecord**
+  - https://pganalyze.com/blog/active-record-subqueries-rails
+- **All About Unicode**
+  - https://eng.getwisdom.io/awesome-unicode/
+- **Minimal CSS for 'modern' layouts**
+  - https://web.dev/one-line-layouts/
+- **How to use Browser Cache for tracking users**
+  - https://levelup.gitconnected.com/no-cookies-no-problem-using-etags-for-user-tracking-3e745544176b
+- **Rubocop meets Simplecov**
+  - https://github.com/grodowski/undercover
