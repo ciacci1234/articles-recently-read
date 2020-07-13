@@ -1,0 +1,13 @@
+- **Enhanced diff terminal command**
+  - https://www.jefftk.com/icdiff 
+- **Quote Tidbit on SRE responsibility**
+  - https://www.blameless.com/blog/blameless-sre-journey
+    - The SRE team would not be responsible for production services... 
+- **Github Availability Report**
+  - https://github.blog/2020-07-08-introducing-the-github-availability-report/
+- **Fuel in DataCentre???**
+  - https://status.cloud.google.com/incident/cloud-networking/20005#20005009
+- **Improving Incident Retros**
+  - https://www.learningfromincidents.io/blog/improving-incident-retrospectives-at-indeed
+- **Slack Outage: HAProxy**
+  - https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82
