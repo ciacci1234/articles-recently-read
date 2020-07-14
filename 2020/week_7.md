@@ -13,3 +13,5 @@
   - https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82
 - **Developing Logging Solution**
   - https://dev.sweatco.in/centralized-logging-solution/ 
+- **Beginner's Explanation of Serialization**
+  - https://advancedbeginners.substack.com/p/pfab-18-adventures-in-shrinking-serialized
