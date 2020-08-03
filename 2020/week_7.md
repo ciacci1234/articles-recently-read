@@ -2,7 +2,7 @@
   - https://www.jefftk.com/icdiff 
 - **Quote Tidbit on SRE responsibility**
   - https://www.blameless.com/blog/blameless-sre-journey
-    - The SRE team would not be responsible for production services... 
+    - Quote starting with "The SRE team would not be responsible for production services..."
 - **Github Availability Report**
   - https://github.blog/2020-07-08-introducing-the-github-availability-report/
 - **Fuel in DataCentre???**
