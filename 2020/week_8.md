@@ -1,4 +1,11 @@
-https://jordanlewis.org/posts/twitch-live-coding/
-https://andrewyoon.art/blog/ft-clipboard
-https://www.freecodecamp.org/news/the-docker-handbook/
-https://www.redhat.com/en/topics/containers/what-is-a-kubernetes-cluster?utm_medium=Email&utm_campaign=weekly&sc_cid=7013a000002glehAAA
+- **Twitch Live Coding**
+  - https://jordanlewis.org/posts/twitch-live-coding/
+- **Clipboard injection on the Financial Times (BOO)**
+  - https://andrewyoon.art/blog/ft-clipboard
+- **Basic runthrough of Docker Stuff**
+  - https://www.freecodecamp.org/news/the-docker-handbook/
+- **Basic Kubernetes Definitions**
+  - https://www.redhat.com/en/topics/containers/what-is-a-kubernetes-cluster
+- **Insights on Obfuscation**
+  - A pretty nifty talk through of lessons the author learned deobfuscating code for an old,popular MMO
+  - https://www.joe-bergeron.com/posts/Java%20Obfuscation:%20A%20Pattern%20Language/

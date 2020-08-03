@@ -1,6 +1,9 @@
-https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
-https://amymhaddad.com/how-to-get-better-at-solving-programming-problems
-https://www.redhat.com/sysadmin/computer-history-sysadmins?utm_medium=Email&utm_campaign=weekly&sc_cid=7013a000002gmubAAA
+- **Full Text Search Engine Walkthrough**
+  - Didn't fully read through this one, but I'm definitely adding to my Todo list of walkthroughs
+  - https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
+- **Some Computer History**
+  - There's a second article linked at the bottom of the article on the basics of the CPU
+  - https://www.redhat.com/sysadmin/computer-history-sysadmins
 https://engineering.linkedin.com/blog/2020/bootstrapping-our-new-messaging-platform
 https://www.learningfromincidents.io/blog/obstacles-to-learning-from-incidents
 https://slack.engineering/data-consistency-checks-e73261318f96
