@@ -1,20 +1,23 @@
-- *****
+- **From the Readme: Rotten is a small self-hosting Lisp, designed as a vehicle for exploring Ken Thompson's Reflections on Trusting Trust.**
+  - Further detail from the Readme: Rotten is named for Ken Thompson's Reflections on Trusting Trust, which shows that a malicious compiler can invisibly compromise any program compiled by it, including in particular itself! This makes for a wickedly difficult-to-detect bug.
   - https://github.com/rntz/rotten
-- *****
+- **Typing in Ruby with RBS (coming in Ruby 3)**
+  - I think the most valuable opportunity from typing in Ruby are the 'interface types' discussed in the 'Duck Typing' section of this article.
   - https://developer.squareup.com/blog/the-state-of-ruby-3-typing/
-- *****
+- **Speeding up Rspec runs using a Centralized Queue and Parallel Workers**
   - https://github.com/skroutz/rspecq
-- *****
+- **Nifty ways to perform 'cat' behavior on the command line without using cat**
   - https://jarv.org/posts/cat-without-cat/
-- *****
-  - https://jarv.org/posts/cat-without-cat/
-- *****
+- **SQL Tips and Tricks**
+  - Also has a useful (IMO) distinction between responsibilities of an infrastructure vs application DBA
   - https://hakibenita.com/sql-tricks-application-dba
-- *****
+- **Aggregation of Useful Resources on Observability**
   - https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics
-- *****
+- **Sql Style Guide**
+  - Never have come across something like this before :hushed: I wonder if you could utilize into a linting tool for SQL
   - https://www.sqlstyle.guide/
-- *****
+- :star: **DB Replications and Considerations One Needs to Make for DB Replication** :star: 
+  - DB stuff seems so wild and whacky and it seems like there are a lots to consider. But this article does a great job breaking down all the considerations and also provides a handy set of resources for further reading
   - https://www.brianstorti.com/replication/
-- *****
+- **Random Niftiness: Leveraging GPU Computing Through JS**
   - https://github.com/gpujs/gpu.js

@@ -1,16 +1,18 @@
-- **Full Text Search Engine Walkthrough***
+- **Full Text Search Engine Walkthrough**
   - Didn't fully read through this one, but I'm definitely adding to my Todo list of walkthroughs
   - https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
 - **Some Computer History**
-  - There's a second article linked at the bottom of the article on the basics of the CPU
+  - A brief account of the first computing devices and an overview of the essential components of a computer. There's a second article linked at the bottom of the article on the basics of the CPU
   - https://www.redhat.com/sysadmin/computer-history-sysadmins
-- *****
+- **Large Scale DB Migration at LinkedIn**
+  - An interest story about LinkedIn migrating to a new database architecture for their messaging service and the considerations they had to make to successfully perform the migration.
   - https://engineering.linkedin.com/blog/2020/bootstrapping-our-new-messaging-platform
-- *****
+- **Challenges to Learning From Incidents**
+  - Some common sense stuff worth reminding of yourself in terms of what challenges there are to learning from incidents/outages/operational surprises
   - https://www.learningfromincidents.io/blog/obstacles-to-learning-from-incidents
-- *****
+- **The Development and Importance of Data Consistency Checks at Slack**
   - https://slack.engineering/data-consistency-checks-e73261318f96
-- *****
+- **Having a Productive vs Unproductive Mindset When Evaluating Others' Mistakes**
   - https://surfingcomplexity.blog/2020/07/20/how-could-they-be-so-stupid/
-- *****
+- **Neat CSS: MineSweeper implemented in CSS + HTML**
   - https://github.com/propjockey/css-sweeper

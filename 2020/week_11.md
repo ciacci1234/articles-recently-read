@@ -1,16 +1,16 @@
-- *****
+- ****
   - https://blog.frankel.ch/different-kinds-testing/
-- *****
+- ****
   - https://opensource.com/article/20/7/nextcloud
-- *****
+- ****
   - https://johnlekberg.com/blog/2020-08-01-task-order.html
-- *****
+- ****
   - https://github.com/veeral-patel/how-to-secure-anything#architecture
-- *****
+- ****
   - https://blog.jonlu.ca/posts/reversing-lyft?ref=hna20
-- *****
+- ****
   - https://www.devdungeon.com/content/enhanced-shell-scripting-ruby
-- *****
-  - 
-- *****
-  - 
+- ****
+  - https://learnk8s.io/validating-kubernetes-yaml
+- ****
+  - https://paika.tech/blog/2020/08/08/lessons-leading-internal-team.html
