@@ -1,0 +1,32 @@
+- ****
+  - https://www.fast.design/docs/introduction/
+- ****
+  - https://github.blog/2020-08-05-github-availability-report-july-2020/
+- ****
+  - https://discord.statuspage.io/incidents/bnv0wbddzz2x
+- ****
+  - http://okigiveup.net/structured-debugging/
+- ****
+  - https://github.com/madd86/awesome-system-design
+- ****
+  - https://github.com/sse-secure-systems/connaisseur
+- ****
+  - https://everydayrails.com/2020/08/10/rails-log-message-testing-rspec.html
+- ****
+  - https://www.codewithjason.com/dockerize-rails-application/
+- ****
+  - https://boringrails.com/articles/hovercards-stimulus/
+- ****
+  - https://lg.substack.com/p/the-looking-glass-a-user-guide-to
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
