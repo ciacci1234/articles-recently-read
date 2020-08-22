@@ -5,12 +5,29 @@
 - ****
   - https://colekillian.com/snippets/how-to-read-instagram-backup-messages-the-easy-way/
 - ****
-  - 
+  - https://sbg.technology/2020/08/21/zero-downtime-kubernetes-deployments/
 - ****
-  - 
+  - https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/
 - ****
-  - 
+  - https://explainshell.com/
 - ****
-  - 
+  - https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/
 - ****
-  - 
+  - https://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/
+- ****
+  - https://www.honeybadger.io/blog/database-transactions-rails-activerecord/
+- ****
+  - http://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby/
+- ****
+  - https://idiosyncratic-ruby.com/74-super-snakes.html
+- ****
+  - https://www.sandipmane.dev/openstruct-in-ruby
+- ****
+  - https://github.com/norman/friendly_id
+- ****
+  - https://github.com/saka1/simdjson_ruby
+- ****
+  - https://github.com/danluu/post-mortems
+- ****
+  - https://github.com/cyluxx/robula-plus
+- https://github.com/jesseduffield/horcrux
