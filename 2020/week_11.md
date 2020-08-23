@@ -1,16 +1,19 @@
-- ****
+- **A good summary of the different types of testing**
+  - Scroll to the bottom for a nice table of the different definitions
   - https://blog.frankel.ch/different-kinds-testing/
-- ****
+- **Open Source Cloud - Nextcloud**
   - https://opensource.com/article/20/7/nextcloud
-- ****
+- **Solving Task-Ordering using Khan's Algorithm**
+  - The implementation of Khan's Algorithm went over my head, but it is useful to know that it is used in dependency resolution
   - https://johnlekberg.com/blog/2020-08-01-task-order.html
-- ****
+- **Ambitious goal of extensively documenting security principles/strategies in a variety of domains**
   - https://github.com/veeral-patel/how-to-secure-anything#architecture
-- ****
-  - https://blog.jonlu.ca/posts/reversing-lyft?ref=hna20
-- ****
+- **Reversing Lyft's ride history API to analyze 6 years worth of rides**
+  - https://blog.jonlu.ca/posts/reversing-lyft
+- **Enhanced Shell Scripting with Ruby**
   - https://www.devdungeon.com/content/enhanced-shell-scripting-ruby
-- ****
+- **Different Linting Tools for K8s YAML Files**
   - https://learnk8s.io/validating-kubernetes-yaml
-- ****
+- **Lessons learned leading an internal team**
+  - useful thoughts about challenges teams, such as SRE, face given the different user base they have compared to the other engineering teams within an organization
   - https://paika.tech/blog/2020/08/08/lessons-leading-internal-team.html
