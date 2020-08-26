@@ -1,6 +1,7 @@
-- ****
+- **FAST - Components-based framework from Microsoft for Front-End Development**
   - https://www.fast.design/docs/introduction/
-- ****
+- **K8s issues at Github**
+  - One of the more enlightening statements: "Even though that container is not required for production traffic to be processed, the nature of Kubernetes requires that all containers be healthy for a Pod to be marked as available."
   - https://github.blog/2020-08-05-github-availability-report-july-2020/
 - ****
   - https://discord.statuspage.io/incidents/bnv0wbddzz2x
