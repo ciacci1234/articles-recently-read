@@ -1,0 +1,32 @@
+- ****
+  - https://github.blog/2020-08-25-upgrading-github-to-ruby-2-7/
+- ****
+  - https://www.ruby-lang.org/en/news/2019/12/12/separation-of-positional-and-keyword-arguments-in-ruby-3-0/
+- ****
+  - https://shopify.github.io/ruby-style-guide/
+- ****
+  - https://blog.peterzhu.ca/notes-on-ruby-gc/
+- ****
+  - https://blog.bigbinary.com/2020/08/25/ruby-2-7-adds-beginless-range.html
+- ****
+  - https://github.com/sickill/rainbow
+- ****
+  - https://nocomplexity.com/documents/arplaybook/architecture-references.html
+- ****
+  - http://okigiveup.net/structured-debugging/
+- ****
+  - https://explained-from-first-principles.com/internet/
+- ****
+  - http://dokku.viewdocs.io/dokku/
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 

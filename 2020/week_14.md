@@ -1,0 +1,32 @@
+- ****
+  - https://github.com/TimeToogo/tunshell
+- ****
+  - https://github.com/Uzay-G/archivy
+- ****
+  - https://github.com/digitalocean/nginxconfig.io
+- ****
+  - https://thenewstack.io/how-rancher-labs-k3s-makes-it-easy-to-run-kubernetes-at-the-edge/
+- ****
+  - https://acloudguru.com/blog/engineering/the-future-of-ops-jobs
+- ****
+  - https://blog.pythonanywhere.com/189/
+- ****
+  - https://surfingcomplexity.blog/2020/08/07/thoughts-on-stamp/
+- ****
+  - https://pythonspeed.com/articles/official-python-docker-image/
+- ****
+  - https://blog.aos.sh/2020/08/23/under-the-hood-of-a-simple-dns-server/
+- ****
+  - https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
