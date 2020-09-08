@@ -19,9 +19,9 @@
 - ****
   - http://dokku.viewdocs.io/dokku/
 - ****
-  - 
+  - https://github.com/abhivaikar/howtheytest
 - ****
-  - 
+  - https://github.com/datastacktv/data-engineer-roadmap
 - ****
   - 
 - ****

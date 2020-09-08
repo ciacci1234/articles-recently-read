@@ -1,18 +1,21 @@
-- ****
+- **Useful CI/CD thoughts in the context of FE development**
   - https://blog.maximeheckel.com/posts/guide-to-cicd-for-frontend-developers
-- ****
+- **Random Python Conference Talk Browser Extension**
   - https://github.com/vinayak-mehta/itslit
-- ****
+- **Real-world jq Demo: Reading Instagram messages via API**
   - https://colekillian.com/snippets/how-to-read-instagram-backup-messages-the-easy-way/
-- ****
+- **Useful thoughts on Ensuring Zero-Downtime Kubernetes deployments**
   - https://sbg.technology/2020/08/21/zero-downtime-kubernetes-deployments/
-- ****
+- **Security Vulnerability in Google Cloud SQL**
+  - The vulnerability involed a SQL injection and the abuse of certain flags you can pass into mysqldump in addition to a few other techniques that went over my head. Interesting read nonetheless!
   - https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/
-- ****
+- **A Very Useful Site for explaining shell commands**
+  - I particularly like it because it breaks the command down component by component
   - https://explainshell.com/
-- ****
+- **A BotNet called FritzFrog**
   - https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/
-- ****
+- **Different Types of Engineers as Superheroes**
+  - A little nerdy and contrived, but meaningful thoughts on different types of engineers
   - https://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/
 - ****
   - https://www.honeybadger.io/blog/database-transactions-rails-activerecord/

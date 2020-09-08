@@ -1,0 +1,35 @@
+- **The basics of daemons**
+  - Clear walkthrough about what daemons are and their purpose
+  - Has a useful code breakdown of some basic considerations one would need to make in order to create a daemon.
+  - https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/
+- **The 'who' Unix command**
+  - Figuring out what the who command is via strace and then recreating its behavior
+  - https://gauthier.uk/blog/who/
+- **Diffs on Github**
+  - https://sebastiandedeyne.com/things-you-didnt-know-you-could-diff-in-github/
+- **All about DNS BIND Zone files**
+  - https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/
+- ****
+  - https://tailscale.com/blog/how-nat-traversal-works/
+- ****
+  - https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
+- ****
+  - https://ideasai.net/
+- ****
+  - https://moonjs.org/
+- ****
+  - https://iximiuz.com/en/posts/service-proxy-pod-sidecar-oh-my/
+- ****
+  - https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 

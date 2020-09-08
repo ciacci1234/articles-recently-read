@@ -6,17 +6,18 @@
 - **Noisy Neighbor on GCP**
   - I never heard of noisy neighbor before this :hushed:
   - https://discord.statuspage.io/incidents/bnv0wbddzz2x
-- ****
-  - http://okigiveup.net/structured-debugging/
-- ****
+- :star: **Great Resource of Resources: System Design** :star:
   - https://github.com/madd86/awesome-system-design
-- ****
+- **Docker Image Signature Verification for Kubernetes**
   - https://github.com/sse-secure-systems/connaisseur
-- ****
+- **Testing Rails Logs**
+  - More helpful than testing rails logs, was the insight about the use of what rspec calls spies as well as the explanation of how `expect`'s work 
   - https://everydayrails.com/2020/08/10/rails-log-message-testing-rspec.html
-- ****
+- **Basic Example of Dockerizing a Rails application**
   - https://www.codewithjason.com/dockerize-rails-application/
-- ****
+- :star: **Stimulus Use-Case: Hovercards** :star:
+  - A very opinionated walk-through of the minimalistic JS framework Stimulus which pairs nicely with Rails
   - https://boringrails.com/articles/hovercards-stimulus/
-- ****
+- **User Guide to Working with You**
+  - An interesting idea, although I wonder how honest/varied attempts at these user guides would be
   - https://lg.substack.com/p/the-looking-glass-a-user-guide-to
