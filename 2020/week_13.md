@@ -17,20 +17,5 @@
 - **Different Types of Engineers as Superheroes**
   - A little nerdy and contrived, but meaningful thoughts on different types of engineers
   - https://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/
-- ****
-  - https://www.honeybadger.io/blog/database-transactions-rails-activerecord/
-- ****
-  - http://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby/
-- ****
-  - https://idiosyncratic-ruby.com/74-super-snakes.html
-- ****
-  - https://www.sandipmane.dev/openstruct-in-ruby
-- ****
-  - https://github.com/norman/friendly_id
-- ****
-  - https://github.com/saka1/simdjson_ruby
-- ****
-  - https://github.com/danluu/post-mortems
-- ****
-  - https://github.com/cyluxx/robula-plus
-- https://github.com/jesseduffield/horcrux
+
+<!-- last articles read recently posted -->

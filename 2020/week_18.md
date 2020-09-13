@@ -1,0 +1,6 @@
+- ****
+  - http://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby/
+- ****
+  - https://idiosyncratic-ruby.com/74-super-snakes.html
+- ****
+  - https://github.com/norman/friendly_id
