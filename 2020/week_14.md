@@ -1,20 +1,25 @@
-- ****
+- **Remote into Machines You Normally Can't**
+  - From the Readme, The use case for tunshell is predominantly quick, ad-hoc remote access to hosts which you may not have SSH access to, or even the ability to install an SSH daemon at all.
   - https://github.com/TimeToogo/tunshell
-- ****
+- **Self-Hosted Knowledge Repo**
   - https://github.com/Uzay-G/archivy
-- ****
-  - https://github.com/digitalocean/nginxconfig.io
-- ****
+- **Process for Debugging Memory Leaks in Ruby**
+  - http://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby/
+- **Minimalistic version of K8s**
+  - Rancher has reworked and removed kubernetes machinery to make a lighter-weight version of k8s called k3s. Not sure what the use case may be, but they link to a conference talk on it that may provide further detail.
   - https://thenewstack.io/how-rancher-labs-k3s-makes-it-easy-to-run-kubernetes-at-the-edge/
-- ****
+- :star: **What Operations Jobs look like in Cloud World** :star:
+  - The best takeaway was the breakdown between product engineering, vendor engineering, and sociotechnical systems engineering
   - https://acloudguru.com/blog/engineering/the-future-of-ops-jobs
-- ****
+- **Outage Report: Storage System failure**
+  - Storage system failures seem especially pernicious! PythonAnywhere experienced an outage in their storage volumes that AWS asserts have a .1% - .2% failure rate per year :scream:
   - https://blog.pythonanywhere.com/189/
-- ****
-  - https://surfingcomplexity.blog/2020/08/07/thoughts-on-stamp/
-- ****
+- **Python Docker Image Walkthrough**
+  - A nice section-by-section Dockerfile walkthrough of one variant of the official Docker python image. Reading this walkthrough not only illuminates this particular image, but demonstrated how images are constructed in general.
   - https://pythonspeed.com/articles/official-python-docker-image/
-- ****
-  - https://blog.aos.sh/2020/08/23/under-the-hood-of-a-simple-dns-server/
-- ****
+- :star: **Rewriting a Major Piece of a Monolith App** :star:
+  - A good overview of how shopify rewrote a portion of their rails monolith handling a merchant's storefront. Highlights include: their use of a verification system leveraging an nginx module written in lua that verified the new implementation with  production traffic and their use of [Toxiproxy](https://github.com/Shopify/toxiproxy)
   - https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite
+- **Implementation of Basic DNS Server**
+  - A nice companion article to this article I recently read: https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/
+  - https://blog.aos.sh/2020/08/23/under-the-hood-of-a-simple-dns-server/
