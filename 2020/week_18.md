@@ -7,13 +7,13 @@
 - ****
   - https://mads-hartmann.com/sre/2020/09/08/alerting-on-slos.html
 - ****
-  - 
+  - https://fergusjordan.ca/tech/getting-the-dom-to-debug-for-you
 - ****
-  - 
+  - https://resilienceroundup.com/issues/the-role-of-error-in-organizing-behaviour/
 - ****
-  - 
+  - https://timeflayer.com/d/wm/
 - ****
-  - 
+  - https://gorails.com/episodes/contributing-to-thor
 - ****
   - 
 - ****

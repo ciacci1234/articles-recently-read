@@ -1,24 +1,27 @@
-- ****
+- **Github's Process for upgrading to Ruby 2.7**
+  - Breezy writeup of how Github handled upgrading to Ruby 2.7
+  - A couple benefits they noted to upgrading: 20 sec drop in application bootup time and going from "~780k   allocations to ~668k allocations"
   - https://github.blog/2020-08-25-upgrading-github-to-ruby-2-7/
-- ****
+- **Ruby 3 Updates to Positional and Keyword arguments**
+  - Had to fully read through it to get a sense of things, but by the end I had a good sense of the significance of the change
+  - Also helped me understand positional vs keyword arguments and some implicit behaviors Ruby has. Ruby 2.7 will also point out the changes coming in Ruby 3
   - https://www.ruby-lang.org/en/news/2019/12/12/separation-of-positional-and-keyword-arguments-in-ruby-3-0/
-- ****
-  - https://shopify.github.io/ruby-style-guide/
-- ****
+- **Garbage Collection in Ruby**
+  - One person's notes on GC in Ruby. If I knew more about C and memory management, I think I would've gotten more out of this post, but I still picked up a few meaningful things such as the fact that Ruby's GC is what is known as "stop-the-world" garbage collection (code cannot run while GC is happening), and I think, if I'm recalling the article correctly, this is due to Ruby's single-threaded nature(?). Also fun to read how Ruby Objects are stored as structs within C and also Ruby's Garbage Collector does more than garbage collecting! 
   - https://blog.peterzhu.ca/notes-on-ruby-gc/
-- ****
+- **Ruby 2.7 - Beginless Range**
   - https://blog.bigbinary.com/2020/08/25/ruby-2-7-adds-beginless-range.html
-- ****
-  - https://github.com/sickill/rainbow
-- ****
+- **Resource of Resources: Architecting**
+  - Collection of lots of diagramming tools and writeups of philosophies/principles for how to build successful systems
   - https://nocomplexity.com/documents/arplaybook/architecture-references.html
-- ****
-  - http://okigiveup.net/structured-debugging/
-- ****
+- **An Attempt to Explain The Internet from the Ground Up**
   - https://explained-from-first-principles.com/internet/
-- ****
+- **Dokku - PaaS Tool**
+  - An attempt at a lightWeight deployment tool for containerized apps
   - http://dokku.viewdocs.io/dokku/
-- ****
+- :star: **Resource of Resources: Testing Strategies employed by many well-known software companies** :star:
   - https://github.com/abhivaikar/howtheytest
-- ****
+- **Data Engineer Roadmap**
   - https://github.com/datastacktv/data-engineer-roadmap
+- **Random Ruby Gem for colorized terminal text**
+  - https://github.com/sickill/rainbow
