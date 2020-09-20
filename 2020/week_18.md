@@ -16,5 +16,3 @@
   - https://maxrozen.com/examples-of-large-production-grade-open-source-react-apps/
 - ****
   - https://dev.to/vtrpldn/write-fewer-media-queries-with-the-clamp-css-function-2cl7
-- ****
-  - 
