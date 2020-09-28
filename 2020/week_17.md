@@ -17,6 +17,4 @@
 - ****
   - https://github.com/cyluxx/robula-plus
 - ****
-  - https://github.com/danluu/post-mortems
-- ****
   - https://www.honeybadger.io/blog/database-transactions-rails-activerecord/

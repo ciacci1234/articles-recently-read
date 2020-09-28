@@ -16,3 +16,7 @@
   - https://maxrozen.com/examples-of-large-production-grade-open-source-react-apps/
 - ****
   - https://dev.to/vtrpldn/write-fewer-media-queries-with-the-clamp-css-function-2cl7
+- ****
+  - https://mads-hartmann.com/2019/03/01/my-first-outage.html
+- ****
+  - https://www.blameless.com/blog/availability-maintainability-reliability-whats-the-difference

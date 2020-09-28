@@ -10,15 +10,13 @@
 - **All about DNS BIND Zone files**
   - https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/
   - Good companion article: https://blog.aos.sh/2020/08/23/under-the-hood-of-a-simple-dns-server/
-- ****
+- **CURRENTLY ON: #Navigating%20a%20NATty%20network**
   - https://tailscale.com/blog/how-nat-traversal-works/
 - ****
   - https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
 - ****
   - https://ideasai.net/
 - ****
-  - https://moonjs.org/
-- ****
   - https://iximiuz.com/en/posts/service-proxy-pod-sidecar-oh-my/
 - ****
-  - https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
+  - https://github.com/danluu/post-mortems
