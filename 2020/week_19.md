@@ -1,0 +1,48 @@
+- ****
+  - https://cloud.google.com/blog/products/devops-sre/join-sre-classroom-nalsd-workshops
+- ****
+  - https://dev.sweatco.in/centralized-logging-solution/
+- ****
+  - https://dev.sweatco.in/centralized-logging-delivery/
+- ****
+  - https://karolgalanciak.com/blog/2020/09/20/tracking-all-paper-trail-version-from-a-single-request-with-correlation-uuids/
+- ****
+  - https://engineering.shopify.com/blogs/engineering/shopify-monolith
+- ****
+  - https://www.astrocamel.com/web/2020/09/04/how-i-bypassed-cloudflares-sql-injection-filter.html
+- ****
+  - https://davidbuckley.ca/post/stacksort/
+- ****
+  - https://r2c.dev/blog/2020/understanding-and-preventing-dos-in-web-apps/
+- ****
+  - https://opensource.com/article/20/10/shell-history-loki-fzf
+- ****
+  - https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext
+- ****
+  - https://medium.com/slalom-build/the-many-shapes-of-site-reliability-engineering-468359866517
+- ****
+  - https://samcurry.net/hacking-apple/
+- ****
+  - https://getkuby.io/
+- ****
+  - https://tomgamon.com/posts/distributed-rough-consensus/
+- ****
+  - https://howhttps.works/the-keys/
+- ****
+  - https://blog.assetnote.io/2020/09/15/hacking-on-bug-bounties-for-four-years/
+- ****
+  - https://github.blog/2020-09-30-code-scanning-is-now-available/
+- ****
+  - https://go-compression.github.io/algorithms/lzss/
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
