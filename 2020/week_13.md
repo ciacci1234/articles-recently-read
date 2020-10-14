@@ -18,4 +18,3 @@
   - A little nerdy and contrived, but meaningful thoughts on different types of engineers
   - https://firstround.com/review/how-to-spot-and-magnify-the-powers-of-your-engineering-superheroes/
 
-<!-- last articles read recently posted -->

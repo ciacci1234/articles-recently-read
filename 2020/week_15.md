@@ -25,3 +25,5 @@
   - https://github.com/datastacktv/data-engineer-roadmap
 - **Random Ruby Gem for colorized terminal text**
   - https://github.com/sickill/rainbow
+
+<!-- last articles read recently posted -->
