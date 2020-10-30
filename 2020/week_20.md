@@ -1,0 +1,34 @@
+- **Low Cost Freelance PenTesting is Dubious (shocking?)**
+  - I found the conclusion unsurprising, but the vulnerabilities the author created were interesting.
+  - https://sophron.github.io/lowcost-freelancing-pentest/
+- **Stripe Employee's Take on Ruby 3's Typing**
+  - This individual was not a part of Sorbet, but worked at Stripe when Sorbet was rolled out internally. 
+  I found the author's main critique about Sorbet's approach vs Ruby 3's approach to typing fairly convincing.
+  - https://brandur.org/nanoglyphs/015-ruby-typing#ruby-typing
+- **Random but potentially interesting repo of malware source code**
+  - https://github.com/vxunderground/MalwareSourceCode
+- **Neat Debugging Story around TCP **
+  - https://rachelbythebay.com/w/2020/10/14/lag/
+- **Debugging Story around Graphics Cards**
+  - The author does a good job describing what debugging is like for a non-programmer, 
+  and shares interesting anecdotes on their experience debugging graphics card-based problems while working at Figma
+  - http://jamie-wong.com/post/debugging-misadventures/
+- **Resource Caching Across Sites and Why it is Going Away**
+  - Article helps explain a type of browser caching, how companies have historically used it for tracking, and why it is going away 
+  - https://www.stefanjudis.com/notes/say-goodbye-to-resource-caching-across-sites-and-domains/
+- **RubyTogether**
+  - From the front page: Ruby Together is a grassroots initiative committed to supporting 
+  the critical Ruby infrastructure you rely on: Bundler, RubyGems, and other shared tools.
+  - https://rubytogether.org/
+- **For Spooky Season: Troubleshooting Production Incidents**
+  - https://launchdarkly.com/blog/10-days-of-errors/
+- **T-Mobile Outage June 15,2020**
+  - FCC report on a T-Mobile outage, it is a good example of multiple factors going wrong in a complex system
+  - https://docs.fcc.gov/public/attachments/DOC-367699A1.pdf
+- **Heroku Outage Report**
+  - An outage due to hitting a Let's Encrypt Rate Limit :hushed:
+  - https://status.heroku.com/incidents/2110
+- **Manual and Automated are Just Words**
+  - https://www.michaelnygard.com/blog/2020/10/manual-and-automated-are-just-words/
+- **Personal Notes Made Searchable**
+  - https://github.com/thesephist/entr

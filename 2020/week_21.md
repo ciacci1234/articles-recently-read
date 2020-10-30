@@ -1,0 +1,21 @@
+- **Better Git Diff Output via .gitattributes**
+  - https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more
+- **Postgres/Rails Read Only Mode**
+  - Interesting writeup around safely doing a database update by making a rails app
+  only process read-only db requests. Also mentions a gem that could've facilitated
+  the author's work.
+  - https://ctoomey.com/writing/read-only-mode-for-better-rails-downtime/
+- **Neat Art Project in under 1kb**
+  - From the article: [The Assembly](http://www.assembly.org/online2020/) is a demoscene event with the most anticipated 1kb, 4kb and full size demo competitions.
+  - This project was the winner of the 1kb event
+  - http://www.p01.org/MONOSPACE/
+- ****
+  - https://capiche.com/e/markdown-history
+- **Don't Copy Paste Into A Shell**
+  - https://briantracy.xyz/writing/copy-paste-shell.html
+- **Timestamping Shell History**
+  - https://jr.expert/timestamp-shell-history.html
+- ****
+  - 
+- ****
+  - 

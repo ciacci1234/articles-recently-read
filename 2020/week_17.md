@@ -1,20 +1,25 @@
-- ****
+- **Python Course on HTTPS and Cryptography**
   - https://realpython.com/courses/exploring-https-cryptography/ 
-- ****
+- **Thoughts on the Value of Code Comments from one of the Creators of Redis**
   - http://antirez.com/news/124
-- ****
+- **let vs let! vs instance variables in RSpec**
   - https://www.codewithjason.com/difference-let-let-instance-variables-rspec/
-- ****
-  - https://jes.al/2020/08/querying-paginated-api-endpoints-the-rails-way/
-- ****
+- **Redundant Modules using Webpacker**
+  - Lots of neat stuff about webpacker and tools you can use to diagnose js bloat on your website
   - https://rossta.net/blog/rails-apps-overpacking-with-webpacker.html
-- ****
-  - https://github.com/Shopify/symbol-fstring
-- ****
+- **SRE and different models of SRE**
+  - a good writeup on the different backgrounds SRE engineers can come from as well as a good breakdown of different models of SRE an org can use
   - https://www.blameless.com/blog/how-to-build-an-sre-team
-- ****
+- **History on HTTP Status Codes**
   - https://increment.com/apis/land-before-modern-apis/
-- ****
+- **Neat Tool to dynamically generate XPath Selectors**
   - https://github.com/cyluxx/robula-plus
-- ****
+- **DB Transactions in Rails**
   - https://www.honeybadger.io/blog/database-transactions-rails-activerecord/
+- **Free Pub/Sub Workshop from Google**
+  - https://cloud.google.com/blog/products/devops-sre/join-sre-classroom-nalsd-workshops
+- **Bypassing Cloudflare's SQL Injection Filter**
+  - I wish to one day be as crafty as this author with creating malicious SQL queries :grimacing:
+  - https://www.astrocamel.com/web/2020/09/04/how-i-bypassed-cloudflares-sql-injection-filter.html
+
+<!-- last articles read recently posted -->

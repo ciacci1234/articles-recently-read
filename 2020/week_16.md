@@ -10,13 +10,15 @@
 - **All about DNS BIND Zone files**
   - https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/
   - Good companion article: https://blog.aos.sh/2020/08/23/under-the-hood-of-a-simple-dns-server/
-- **CURRENTLY ON: #Navigating%20a%20NATty%20network**
+- **All About Network Address Translation and Firewall Behaviors**
   - https://tailscale.com/blog/how-nat-traversal-works/
-- ****
+- **Top Articles Favorited by most active HN users**
   - https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
-- ****
+- **Machine Learning-Powered Idea Generator**
+  - uses OpenAI's GPT-3
   - https://ideasai.net/
-- ****
+- **A walkthrough with a demo to help explain how containers talk to one another**
   - https://iximiuz.com/en/posts/service-proxy-pod-sidecar-oh-my/
-- ****
+- :star: **Resource of Resources: Post-Mortems** :star:
+  - I've learned lots from incident write-ups, so a repo of them all is invaluable
   - https://github.com/danluu/post-mortems
