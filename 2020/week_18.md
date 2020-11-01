@@ -1,22 +1,29 @@
-- ****
+- **Useful Explanation of "Super Snaked" built-in methods in Ruby**
   - https://idiosyncratic-ruby.com/74-super-snakes.html
-- ****
+- **ActiveRecord Integratio to Make More Human Readable URL Slugs**
   - https://github.com/norman/friendly_id
-- ****
+- :star: **Early Implementations of SLO's at Glitch** :star:
+  - Good overview of key SRE concepts like SLI's, SLO's, and alerting based on those SLO's
   - https://mads-hartmann.com/sre/2020/09/08/alerting-on-slos.html
-- ****
+- **Getting the Dom to Debug For You**
+  - neat use of `console.trace()`
   - https://fergusjordan.ca/tech/getting-the-dom-to-debug-for-you
-- ****
+- **Considerations When Tracing an Incident Through a System**
+  - Thoughts around the complexity involved when analyzing an incident, and highlighting that every individual involved in this analysis will bring different perspectives/experience to the analysis, resulting in different causal chains for the incident
+  - Read Takeaways for TLDR
   - https://resilienceroundup.com/issues/the-role-of-error-in-organizing-behaviour/
-- ****
+- **Philosophical Take on Technology and Our Interactions with them Using Pokemon**
   - https://timeflayer.com/d/wm/
-- ****
+- **Debugging Issue in Thor**
+  - Walkthrough of an issue with Thor, the tool behind command line utilities such as the rails generator commands
   - https://gorails.com/episodes/contributing-to-thor
-- ****
+- **Examples of Large-scale Production Apps using React**
+  - Resources for a tool,framework,or language often use small, toy apps to explain concepts. These types of examples aren't always as insightful as a person might hope. This author created a list of examples of large-scale real-world apps using React to address that problem for developers learning React.
   - https://maxrozen.com/examples-of-large-production-grade-open-source-react-apps/
-- ****
+- **Neat CSS Property: Clamp**
   - https://dev.to/vtrpldn/write-fewer-media-queries-with-the-clamp-css-function-2cl7
-- ****
+- **Glitch Incident Report**
+  - An incident tied to corrupt node_modules. I like that this report template includes a "What Went Well, What Went Wrong, Where We Got Lucky" section
   - https://mads-hartmann.com/2019/03/01/my-first-outage.html
-- ****
+- **Good Definitions Between Availability, Maintainability, Reliability**
   - https://www.blameless.com/blog/availability-maintainability-reliability-whats-the-difference
