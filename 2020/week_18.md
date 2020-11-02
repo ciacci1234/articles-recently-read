@@ -25,5 +25,5 @@
 - **Glitch Incident Report**
   - An incident tied to corrupt node_modules. I like that this report template includes a "What Went Well, What Went Wrong, Where We Got Lucky" section
   - https://mads-hartmann.com/2019/03/01/my-first-outage.html
-- **Good Definitions Between Availability, Maintainability, Reliability**
+- **Good Definitions of Availability vs Maintainability vs Reliability**
   - https://www.blameless.com/blog/availability-maintainability-reliability-whats-the-difference
