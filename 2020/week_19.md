@@ -1,35 +1,37 @@
 
-- ****
+- **Discussion of how a team Developed their Centralized Logging Solution**
+  - The discussion included the painpoints of the ELK stack and the team's decision to modify the stack with a file-based approach 
   - https://dev.sweatco.in/centralized-logging-solution/
-- ****
-  - https://dev.sweatco.in/centralized-logging-delivery/
-- ****
-  - https://karolgalanciak.com/blog/2020/09/20/tracking-all-paper-trail-version-from-a-single-request-with-correlation-uuids/
-- ****
+- **Shopify's experience breaking down a monolith**
+  - Some useful takeaways
+    - a review of SOLID principles and their usefulness
+    - mentioning a few areas where their initial approaches didn't work and they had to switch up their strategy
+    - the value of static analysis as well as the use of Sorbet
+    - the challenge of complicated dependency graphs and a couple approaches to overcome those challenges
   - https://engineering.shopify.com/blogs/engineering/shopify-monolith
-- ****
+- **Using Python to implement sort via StackOverflow snippets**
+  - A fun meta-programmy demo of sorting a set of elements using only solutions posted on StackOverflow
   - https://davidbuckley.ca/post/stacksort/
-- ****
+- **DoS attacks, how to classify them, and how to prioritize mitigations against them**
   - https://r2c.dev/blog/2020/understanding-and-preventing-dos-in-web-apps/
-- ****
-  - https://opensource.com/article/20/10/shell-history-loki-fzf
-- ****
-  - https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext
-- ****
+- **Different SRE makeups**
   - https://medium.com/slalom-build/the-many-shapes-of-site-reliability-engineering-468359866517
+  - Related Article from a Previous Week: https://www.blameless.com/blog/how-to-build-an-sre-team
 - ****
   - https://samcurry.net/hacking-apple/
-- ****
+- **Fun Sideproject on Establishing Rough Consenus Remotely**
   - https://tomgamon.com/posts/distributed-rough-consensus/
-- ****
+- **Cute Visual on how HTTPS works**
   - https://howhttps.works/the-keys/
-- ****
+- :star: **Lessons Learned from a Full Time Bug Bounty Hunter** :star:
+  - This article also qualifies as a Resource of Resources due to the links the author references for further info on pentesting and security engineering
+  - Interesting overview of the set of security vulnerabilities this person encountered as well as the financials from someone spending their full-time on bug bounties over four years (and starting a security company as a result)
   - https://blog.assetnote.io/2020/09/15/hacking-on-bug-bounties-for-four-years/
-- ****
-  - https://github.blog/2020-09-30-code-scanning-is-now-available/
-- ****
+- **Compression Algorithms**
+  - All about compression algorithms with interactive sections and clear explanations
   - https://go-compression.github.io/algorithms/lzss/
-- ****
+- **Scaling DNS Root Zone**
   - https://www.potaroo.net/ispcol/2020-09/root.html
-- ****
+- **GitJacker**
+  - From Repo: Leak git repositories from misconfigured websites 
   - https://github.com/liamg/gitjacker

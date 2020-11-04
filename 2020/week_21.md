@@ -16,6 +16,6 @@
 - **Timestamping Shell History**
   - https://jr.expert/timestamp-shell-history.html
 - ****
-  - 
+  - https://conventionalcomments.org/
 - ****
   - 
