@@ -1,4 +1,3 @@
-
 - **Discussion of how a team Developed their Centralized Logging Solution**
   - The discussion included the painpoints of the ELK stack and the team's decision to modify the stack with a file-based approach 
   - https://dev.sweatco.in/centralized-logging-solution/

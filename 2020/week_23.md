@@ -1,0 +1,21 @@
+- **Simple Burnout Triage**
+  - Very easy metric to use to start to guage burnout
+  - https://benmccormick.org/2020/08/31/simple-burnout-triage
+- **A Dev's Perspective on how Abstraction Facilitates Scalability**
+  - Using Redis as a case study
+  - https://kirshatrov.com/2020/11/15/org-layers-of-abstraction/
+- **Maybe Useful When Work Machines are all on Big Sur**
+  - https://solnic.codes/2020/12/09/fixing-ruby-2-7-compilation-error-on-big-sur/
+- **List of Small Teams that Created Big Things**
+  - https://stevepulec.com/posts/small/
+  - The author took inspiration from a similar list of big projects that happened fast
+    - https://patrickcollison.com/fast
+- **The costs of critical societal infrastructure haphazardly adopting tech solutions**
+  - https://www.technologyreview.com/2020/12/04/1013068/algorithms-create-a-poverty-trap-lawyers-fight-back/
+- **Easy to Read Brief History of C**
+  - https://arstechnica.com/features/2020/12/a-damn-stupid-thing-to-do-the-origins-of-c/
+- **linked-list-good-taste**
+  - From About Section in repo: Linus Torvalds' linked list argument for good taste, explained 
+  - The code is in C, so a little harder to comprehend if you're unfamiliar with it, but still followable enough
+  - Random Thought: Would it be useful to translate this example into a higher-level language (ruby, python, js) to facilitate people's comprehension?
+  - https://github.com/mkirchner/linked-list-good-taste

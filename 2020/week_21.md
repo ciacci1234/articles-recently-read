@@ -9,14 +9,21 @@
   - From the article: [The Assembly](http://www.assembly.org/online2020/) is a demoscene event with the most anticipated 1kb, 4kb and full size demo competitions.
   - This project was the winner of the 1kb event
   - http://www.p01.org/MONOSPACE/
-- ****
+- **A History of Markdown**
+  - The thinking behind Markdown is older, but I didn't realize offically Markdown was a thing starting in 2004 :hushed:
   - https://capiche.com/e/markdown-history
 - **Don't Copy Paste Into A Shell**
   - https://briantracy.xyz/writing/copy-paste-shell.html
 - **Timestamping Shell History**
   - https://jr.expert/timestamp-shell-history.html
-- ****
+- **Conventional Comments**
+  - A small framework to use for writing comments on code reviews
   - https://conventionalcomments.org/
-- ****
+- **Cool Visualization/Profiling of Postgres Processes**
   - https://pgstats.dev/
+- **Resource of Resources: Linux Performance/Profiling Tools
   - http://www.brendangregg.com/linuxperf.html
+- **Out of Memory Alerting for Kubernetes**
+  - Has a nice brief explanation of why OOM happens and offers a useful plugin for k8s for OOM alerts
+  - Also describes some not so intuitive error-handling behaviors for processes running in containers 
+  - https://www.netice9.com/blog/guide-to-oomkill-alerting-in-kubernetes-clusters/
