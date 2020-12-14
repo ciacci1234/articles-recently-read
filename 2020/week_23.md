@@ -19,3 +19,10 @@
   - The code is in C, so a little harder to comprehend if you're unfamiliar with it, but still followable enough
   - Random Thought: Would it be useful to translate this example into a higher-level language (ruby, python, js) to facilitate people's comprehension?
   - https://github.com/mkirchner/linked-list-good-taste
+- **Incident Report: Handle Monitoring Changes with care too**
+  - A good incident report touching on timeless reliability challenges: testing in different environments, incorrect conclusions due to assumptions made based on previous experience, the need for planned deploys, and also a potentially useful process for making firewall-rule related updates 
+  - https://sbg.technology/2020/12/09/its-just-a-monitoring-change/
+- **A Dev's Perspective on how Complexity has to Live Somewhere**
+  - https://ferd.ca/complexity-has-to-live-somewhere.html
+- **Running up against the limitations of a company's database setup, evaluating alternatives, and all the work in between**
+  - https://medium.com/strava-engineering/the-boring-option-4a7c6ad16ab8
