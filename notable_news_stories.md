@@ -1,95 +1,95 @@
-https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/
-https://knightfoundation.org/features/civictechbiz/
-https://www.gamasutra.com/view/feature/131577/halflife_and_team_fortress_.php?page=1
-https://www.vice.com/en_us/article/pgaka8/these-bots-tweet-when-government-officials-edit-wikipedia
-https://www.citylab.com/equity/2019/04/hudson-yards-financing-eb5-investor-visa-program-immigration/586897/
-http://planphilly.com/articles/2018/12/07/inside-the-philadelphia-da-s-side-hustle-selling-seized-homes-to-speculators-and-cops
-https://malisper.me/my-approach-to-getting-dramatically-better-as-a-programmer/
-https://mathiasbynens.be/notes/shapes-ics
-https://mpc.sh/blog/a-gentle-intro-to-plt/
-https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
-https://www.bloomberg.com/news/articles/2018-03-20/cash-strapped-u-s-colleges-become-targets-for-chinese-companies
-https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/
-https://jvns.us7.list-manage.com/track/click?u=67757ca4ed0f508d954bcb2af&id=bbfda2fb0d&e=e751e11efb
-https://jvns.us7.list-manage.com/track/click?u=67757ca4ed0f508d954bcb2af&id=031dd28e54&e=e751e11efb
-https://www.wsj.com/articles/facebook-really-is-spying-on-you-just-not-through-your-phones-mic-1520448644
-https://www.rollingstone.com/politics/politics-news/welcome-to-the-age-of-climate-migration-202221/
-https://www.troyhunt.com/i-wanna-go-fast-why-searching-through-500m-pwned-passwords-is-so-quick/
-https://www.aclu.org/blog/racial-justice/race-and-economic-justice/debt-collection-companies-have-hijacked-justice-system
-https://acolyer.us9.list-manage.com/track/click?u=4188b6afbe9e5d43111fef4d4&id=fc0bb3a962&e=e71082b300
-https://gizmodo.com/all-the-ways-your-smartphone-and-its-apps-can-track-you-1821213704
-https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/
-http://statescoop.com/text-reminders-are-getting-more-people-to-show-up-to-court-in-nyc
-https://medium.com/@caspervonb/how-i-visualized-the-sorting-algorithms-and-brought-them-to-life-with-sound-ce7c5c6cb6ef
-https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html
-https://blogs.nvidia.com/blog/2017/12/22/nvidia-ruler/
-https://generocity.org/philly/2017/12/20/14-people-need-know-philly-civic-tech-reallist/
-http://www.flownet.com/gat/jpl-lisp.html
-https://hackernoon.com/practical-functional-programming-6d7932abc58b
-https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic
-https://oversight.house.gov/about
-https://magazine.atavist.com/promethea-unbound-child-genius-montana
-https://www.wired.com/story/big-data-streaming/
-https://jaycarlson.net/microcontrollers/
-https://crypto.stanford.edu/~blynn/gitmagic/
-http://worrydream.com/EarlyHistoryOfSmalltalk/
-https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
-https://www.wired.com/story/the-social-network-doling-out-millions-in-ephemeral-money/?mbid=nl_100417_backchannel_p1
-http://www.estherderby.com/2005/09/thinking-and-reading-sometimes-together.html
-http://www.andromeda.com/people/ddyer/lisp/https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/
-https://scottbot.net/the-route-of-a-text-message/
-https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws
-https://blog.acolyer.org/2019/06/28/machine-learning-systems-are-stuck-in-a-rut/
-https://blog.acolyer.org/2019/06/26/designing-far-memory-data-structures/
-https://blog.acolyer.org/2019/06/21/what-bugs-cause-cloud-production-incidents/
-https://blog.acolyer.org/2019/06/19/nines-are-not-enough/
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=832627
-https://slikts.github.io/concurrency-glossary/
-https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/
-https://www.pnas.org/content/116/1/328
-http://blog.acolyer.org/2019/01/23/the-data-calculator-data-structure-design-and-cost-synthesis-from-first-principles-and-learned-cost-models
-http://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know
-https://research.google/pubs/pub45530/
-http://blog.acolyer.org/2019/01/28/the-case-for-network-accelerated-query-processing
-https://arxiv.org/pdf/1801.06863.pdf
-https://www.reuters.com/article/us-cyber-iran-specialreport/special-report-how-iran-spreads-disinformation-around-the-world-idUSKCN1NZ1FT
-https://comprop.oii.ox.ac.uk/research/working-papers/twitter-traffic-manipulation/
-https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
-https://blog.acolyer.org/2018/12/17/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/
-https://realpython.com/python-memory-management/
-http://blog.acolyer.org/2019/02/01/fixed-it-for-you-protocol-repair-using-lineage-graphs
-https://medium.com/@krusynth/the-end-of-the-second-act-of-civic-tech-2d8d9c766309
-http://web.cecs.pdx.edu/~tymerski/ece101/Expert_mind_scientificamerican0806-64.pdf
-https://blog.acolyer.org/2019/03/06/keeping-calm-when-distributed-consistency-is-easy/
-https://arxiv.org/abs/1902.05178
-https://zeroequalsfalse.press/posts/programming-books-you-wish-you-read-earlier/#.XIm0WIxTaIA.hackernews
-https://blog.acolyer.org/2019/03/15/exploiting-commutativity-for-practical-fast-replication/
-https://blog.acolyer.org/2019/03/18/datacenter-rpcs-can-be-general-and-fast/
-https://blog.acolyer.org/2019/03/20/understanding-lifecycle-management-complexity-of-datacenter-topologies/
-https://blog.acolyer.org/2019/03/22/slim:-os-kernel-support-for-a-low-overhead-container-overlay-network/
-https://blog.acolyer.org/2019/04/01/the-crux-of-voice-insecurity-a-brain-study-of-speaker-legitimacy-detection/
-https://blog.acolyer.org/2019/04/03/establishing-software-root-of-trust-unconditionally/
-https://blog.acolyer.org/2019/04/05/ginseng:-keeping-secrets-in-registers-when-you-distrust-the-operating-system/
-https://www.freecodecamp.org/news/postgresql-full-course/
-https://blog.acolyer.org/2019/04/08/how-bad-can-it-git?-characterizing-secret-leakage-in-public-github-repositories/
-https://blog.acolyer.org/2019/04/12/master-of-web-puppets:-abusing-web-browsers-for-persistent-and-stealthy-computation/
-https://blog.acolyer.org/2019/04/15/time-protection-the-missing-os-abstraction/
-https://thehistoryoftheweb.com/history-of-the-url/
-http://coding-geek.com/how-databases-work/
-https://blog.acolyer.org/2019/04/18/keeping-master-green-at-scale/
-https://blog.acolyer.org/2019/05/07/distributed-consensus-revised-part-i/
-https://blog.acolyer.org/2019/05/08/distributed-consensus-revised---part-ii/
-https://blog.acolyer.org/2019/05/10/distributed-consensus-revised-part-iii/
-https://blog.acolyer.org/2019/05/13/an-open-source-benchmark-suite-for-microservices-and-their-hardware-software-implications-for-cloud-edge-systems/
-https://blog.acolyer.org/2019/05/15/seer/
-https://blog.acolyer.org/2019/05/17/understanding-real-world-concurrency-bugs-in-go/
-https://blog.acolyer.org/2019/05/22/sw-far-memory/
-https://blog.acolyer.org/2019/05/24/zippads/
-https://blog.acolyer.org/2019/05/28/cheri-abi/
-https://blog.acolyer.org/2019/05/29/race-trees/
-https://blog.acolyer.org/2019/05/31/lease-os/
-https://blog.acolyer.org/2019/06/05/data-validation-for-machine-learning/
-https://blog.acolyer.org/2019/06/07/towards-federated-learning-at-scale/
-https://hiring.latacora.net/#/home(ciacci1234@gmail.com, check note for pw)
-http://highscalability.com/
-https://cryptopals.com/
+- https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/
+- https://knightfoundation.org/features/civictechbiz/
+- https://www.gamasutra.com/view/feature/131577/halflife_and_team_fortress_.php?page=1
+- https://www.vice.com/en_us/article/pgaka8/these-bots-tweet-when-government-officials-edit-wikipedia
+- https://www.citylab.com/equity/2019/04/hudson-yards-financing-eb5-investor-visa-program-immigration/586897/
+- http://planphilly.com/articles/2018/12/07/inside-the-philadelphia-da-s-side-hustle-selling-seized-homes-to-speculators-and-cops
+- https://malisper.me/my-approach-to-getting-dramatically-better-as-a-programmer/
+- https://mathiasbynens.be/notes/shapes-ics
+- https://mpc.sh/blog/a-gentle-intro-to-plt/
+- https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
+- https://www.bloomberg.com/news/articles/2018-03-20/cash-strapped-u-s-colleges-become-targets-for-chinese-companies
+- https://zwischenzugs.com/2018/03/14/five-key-git-concepts-explained-the-hard-way/
+- https://jvns.us7.list-manage.com/track/click?u=67757ca4ed0f508d954bcb2af&id=bbfda2fb0d&e=e751e11efb
+- https://jvns.us7.list-manage.com/track/click?u=67757ca4ed0f508d954bcb2af&id=031dd28e54&e=e751e11efb
+- https://www.wsj.com/articles/facebook-really-is-spying-on-you-just-not-through-your-phones-mic-1520448644
+- https://www.rollingstone.com/politics/politics-news/welcome-to-the-age-of-climate-migration-202221/
+- https://www.troyhunt.com/i-wanna-go-fast-why-searching-through-500m-pwned-passwords-is-so-quick/
+- https://www.aclu.org/blog/racial-justice/race-and-economic-justice/debt-collection-companies-have-hijacked-justice-system
+- https://acolyer.us9.list-manage.com/track/click?u=4188b6afbe9e5d43111fef4d4&id=fc0bb3a962&e=e71082b300
+- https://gizmodo.com/all-the-ways-your-smartphone-and-its-apps-can-track-you-1821213704
+- https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/
+- http://statescoop.com/text-reminders-are-getting-more-people-to-show-up-to-court-in-nyc
+- https://medium.com/@caspervonb/how-i-visualized-the-sorting-algorithms-and-brought-them-to-life-with-sound-ce7c5c6cb6ef
+- https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html
+- https://blogs.nvidia.com/blog/2017/12/22/nvidia-ruler/
+- https://generocity.org/philly/2017/12/20/14-people-need-know-philly-civic-tech-reallist/
+- http://www.flownet.com/gat/jpl-lisp.html
+- https://hackernoon.com/practical-functional-programming-6d7932abc58b
+- https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic
+- https://oversight.house.gov/about
+- https://magazine.atavist.com/promethea-unbound-child-genius-montana
+- https://www.wired.com/story/big-data-streaming/
+- https://jaycarlson.net/microcontrollers/
+- https://crypto.stanford.edu/~blynn/gitmagic/
+- http://worrydream.com/EarlyHistoryOfSmalltalk/
+- https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
+- https://www.wired.com/story/the-social-network-doling-out-millions-in-ephemeral-money/?mbid=nl_100417_backchannel_p1
+- http://www.estherderby.com/2005/09/thinking-and-reading-sometimes-together.html
+- http://www.andromeda.com/people/ddyer/lisp/https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/
+- https://scottbot.net/the-route-of-a-text-message/
+- https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws
+- https://blog.acolyer.org/2019/06/28/machine-learning-systems-are-stuck-in-a-rut/
+- https://blog.acolyer.org/2019/06/26/designing-far-memory-data-structures/
+- https://blog.acolyer.org/2019/06/21/what-bugs-cause-cloud-production-incidents/
+- https://blog.acolyer.org/2019/06/19/nines-are-not-enough/
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=832627
+- https://slikts.github.io/concurrency-glossary/
+- https://blog.wallaroolabs.com/2018/11/horizontal-scaling-reasons/
+- https://www.pnas.org/content/116/1/328
+- http://blog.acolyer.org/2019/01/23/the-data-calculator-data-structure-design-and-cost-synthesis-from-first-principles-and-learned-cost-models
+- http://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know
+- https://research.google/pubs/pub45530/
+- http://blog.acolyer.org/2019/01/28/the-case-for-network-accelerated-query-processing
+- https://arxiv.org/pdf/1801.06863.pdf
+- https://www.reuters.com/article/us-cyber-iran-specialreport/special-report-how-iran-spreads-disinformation-around-the-world-idUSKCN1NZ1FT
+- https://comprop.oii.ox.ac.uk/research/working-papers/twitter-traffic-manipulation/
+- https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
+- https://blog.acolyer.org/2018/12/17/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/
+- https://realpython.com/python-memory-management/
+- http://blog.acolyer.org/2019/02/01/fixed-it-for-you-protocol-repair-using-lineage-graphs
+- https://medium.com/@krusynth/the-end-of-the-second-act-of-civic-tech-2d8d9c766309
+- http://web.cecs.pdx.edu/~tymerski/ece101/Expert_mind_scientificamerican0806-64.pdf
+- https://blog.acolyer.org/2019/03/06/keeping-calm-when-distributed-consistency-is-easy/
+- https://arxiv.org/abs/1902.05178
+- https://zeroequalsfalse.press/posts/programming-books-you-wish-you-read-earlier/#.XIm0WIxTaIA.hackernews
+- https://blog.acolyer.org/2019/03/15/exploiting-commutativity-for-practical-fast-replication/
+- https://blog.acolyer.org/2019/03/18/datacenter-rpcs-can-be-general-and-fast/
+- https://blog.acolyer.org/2019/03/20/understanding-lifecycle-management-complexity-of-datacenter-topologies/
+- https://blog.acolyer.org/2019/03/22/slim:-os-kernel-support-for-a-low-overhead-container-overlay-network/
+- https://blog.acolyer.org/2019/04/01/the-crux-of-voice-insecurity-a-brain-study-of-speaker-legitimacy-detection/
+- https://blog.acolyer.org/2019/04/03/establishing-software-root-of-trust-unconditionally/
+- https://blog.acolyer.org/2019/04/05/ginseng:-keeping-secrets-in-registers-when-you-distrust-the-operating-system/
+- https://www.freecodecamp.org/news/postgresql-full-course/
+- https://blog.acolyer.org/2019/04/08/how-bad-can-it-git?-characterizing-secret-leakage-in-public-github-repositories/
+- https://blog.acolyer.org/2019/04/12/master-of-web-puppets:-abusing-web-browsers-for-persistent-and-stealthy-computation/
+- https://blog.acolyer.org/2019/04/15/time-protection-the-missing-os-abstraction/
+- https://thehistoryoftheweb.com/history-of-the-url/
+- http://coding-geek.com/how-databases-work/
+- https://blog.acolyer.org/2019/04/18/keeping-master-green-at-scale/
+- https://blog.acolyer.org/2019/05/07/distributed-consensus-revised-part-i/
+- https://blog.acolyer.org/2019/05/08/distributed-consensus-revised---part-ii/
+- https://blog.acolyer.org/2019/05/10/distributed-consensus-revised-part-iii/
+- https://blog.acolyer.org/2019/05/13/an-open-source-benchmark-suite-for-microservices-and-their-hardware-software-implications-for-cloud-edge-systems/
+- https://blog.acolyer.org/2019/05/15/seer/
+- https://blog.acolyer.org/2019/05/17/understanding-real-world-concurrency-bugs-in-go/
+- https://blog.acolyer.org/2019/05/22/sw-far-memory/
+- https://blog.acolyer.org/2019/05/24/zippads/
+- https://blog.acolyer.org/2019/05/28/cheri-abi/
+- https://blog.acolyer.org/2019/05/29/race-trees/
+- https://blog.acolyer.org/2019/05/31/lease-os/
+- https://blog.acolyer.org/2019/06/05/data-validation-for-machine-learning/
+- https://blog.acolyer.org/2019/06/07/towards-federated-learning-at-scale/
+- https://hiring.latacora.net/#/home(ciacci1234@gmail.com, check note for pw)
+- http://highscalability.com/
+- https://cryptopals.com/

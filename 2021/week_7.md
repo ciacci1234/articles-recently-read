@@ -1,5 +1,3 @@
-- **Dropbox Migration Story on Splitting up Monolthic Infrastructure**
-  - https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform
 - **Interview Question One Person Has Found Insightful to Ask**
   - https://des.wtf/whos-the-best-engineer-youve-worked-with/
 - **Some Rails Monitoring using built-in libraries**
