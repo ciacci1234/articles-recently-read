@@ -1,0 +1,26 @@
+- **DB Optimization: Decorrelating Subqueries**
+  - The first 15-20% of the article was helpful just to learn about what a correlated subquery looks like and it was also interesting to learn that db's handle the execution of correlated queries differently. But the rest of the article was a bit lost on me.
+  - https://scattered-thoughts.net/writing/materialize-decorrelation/ 
+- **Digging Into Things**
+  - An author's thoughts on the value of digging into the problems that come up while you are trying to solve your main problem.
+  - https://jessitron.com/2021/02/27/one-key-trick-to-becoming-a-wizard-developer/
+- **Game to Teach Functional Programming Ideas**
+  - I can't speak to the efficacy of this method of communicating FP concepts, but I really liked the visualization and gamification of it all.
+  - https://david-peter.de/cube-composer/
+- **One Dev's Way of Interacting with Twitter More Meaningfully **
+  - https://www.santiagomartins.com/programming/social-media/data/2021/03/05/how-to-organise-your-twitter-follows-into-lists.html
+- **Random Interesting Project: Library for Making Bots for Whatsapp**
+  - https://github.com/orkestral/venom
+- **Random Interesting Project: Universal Radio Hacker**
+  - Tool for investigating wireless protocols
+  - https://github.com/jopohl/urh
+- **Using some Postgres Metrics to Estimate Connection Pools**
+  - https://www.cybertec-postgresql.com/en/estimating-connection-pool-size-with-postgresql-database-statistics/
+- **Coping with Complexity**
+  - The author describes a paper that describes four dimensions of problem-solving a complex system: Dynamism, number of parts and the number of connections between them, uncertainty, risk
+  - These dimensions heavily influence the behavior and ability of an individual to debug and comprehend the system they are operating within.
+  - https://resilienceroundup.com/issues/coping-with-complexity/
+- **Magazine Issue Full of Good Articles on Reliability**
+  - https://increment.com/reliability/
+- **Different Strategies for Implementing a Retry Mechanism**
+  - https://engineering.mercari.com/en/blog/entry/20210126-retry-pattern-in-microservices/

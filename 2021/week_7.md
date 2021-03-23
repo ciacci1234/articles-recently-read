@@ -1,0 +1,23 @@
+- **Dropbox Migration Story on Splitting up Monolthic Infrastructure**
+  - https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform
+- **Interview Question One Person Has Found Insightful to Ask**
+  - https://des.wtf/whos-the-best-engineer-youve-worked-with/
+- **Some Rails Monitoring using built-in libraries**
+  - http://tomrothe.de/posts/dead-simple-rails-monitoring.html
+- **Dynamic Loading Spinner using CSS only**
+  - https://dev.to/ruppysuppy/create-dynamic-spinners-only-using-css-34dh
+- **Detecting Asymmetric Latency using Ping**
+  - I found the first half of the article more interesting then the second half in terms of teaching me something interesting about ping and what it measures. But as far as why we would need to detect long-term asymmetric latency, the value there was lost on me.
+  - https://blog.benjojo.co.uk/post/ping-with-loss-latency-split
+- **Rails Library for Monitoring N+1 Queries**
+  - https://github.com/charkost/prosopite
+- **Tech Companies as Landlords**
+  - I like the analogy, but the tone of the author is too grandiose and self-important and the article could've benefitted from providing clearer evidence of the negative impacts of big tech companies being so powerful.
+  - https://thereboot.com/the-internet-of-landlords-makes-renters-of-us-all/
+- **Some Metrics Gauging Health of Your Postgres DB**
+  - Good tips on different simple measures you can carry out on your Postgres DB to see if there are any potential performance improvements
+  - https://blog.crunchydata.com/blog/cleaning-up-your-postgres-database
+- ****
+  - 
+- ****
+  - 

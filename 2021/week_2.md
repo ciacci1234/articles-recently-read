@@ -1,0 +1,22 @@
+- **Cute Nicknames for Common Behaviors during Incidents**
+  - https://www.adaptivecapacitylabs.com/blog/2020/12/21/incident-phenomena-shorthand-names-a-la-danny-ocean/ 
+- **A Dev's Decision to Merge A Chunk of Microservices back into a Monolith**
+  - Most useful takeaway: "Micro"-services was not a great name for the modern pattern of splitting up services into smaller chunks. The author instead proposes "right-sized" services to convey a more dynamic, evolving approach to drawing boundaries between the different services within a given system. 
+  - https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm
+- **Framing SLO's for Directors At Your Company**
+  - https://medium.com/brexeng/how-to-sell-slos-to-engineering-directors-9c6379c3f246
+- **Lots of Good Stuff about the Importance of Documentation from an SRE perspective**
+  - https://queue.acm.org/detail.cfm?id=3283589
+- **Dropbox Insights on Incident Management**
+  - Some tidbits probably not relevant for companies smaller than Dropbox, but plenty of tidbits useful for companies of all sizes
+  - https://dropbox.tech/infrastructure/lessons-learned-in-incident-management
+- **MAYBE ARTICLE: Building On-Call Culture at Github**
+  - https://github.blog/2021-01-06-building-on-call-culture-at-github/
+- **Thoughts on Testing in Production**
+  - Honeycomb's Charity Majors on how as an industry we should acknowledge that there will always be a level of testing and verification of system changes happening in production. Along with this acknowledgement, we should invest in more tools that would facilitate testing and verification in production.
+  - https://increment.com/testing/i-test-in-production/
+- **Walk Through of one Application's of Event-Driven Architecture**
+  - The author walks through a poker application that they and others developed using event-driven architecture. It is a nice practical real-world example of someone using this pattern and some of the considerations to keep in mind when evaluating this pattern.
+  - https://monadical.com/posts/event-driven-architecture-1.html#
+- **IP Explanation with Visual**
+- https://outofips.netlify.app/

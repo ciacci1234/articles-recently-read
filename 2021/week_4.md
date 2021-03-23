@@ -1,0 +1,30 @@
+- **How GCP Ruby team implemented Ruby runtime for Cloud Functions**
+  - Overview of some of the tradeoffs and design decisions that went into implementing a ruby runtime for Cloud Functions
+  - https://daniel-azuma.com/blog/2021/01/20/designing-a-ruby-serverless-runtime
+- **One Dev's Way of Automating New Machine setup**
+  - https://alabeduarte.com/new-env-setup/
+- **Functions-as-a-Service with OpenFaaS**
+  - Author takes you through their experience using faasd, a project from OpenFaaS, which is an alternative to AWS Lambda functions or GCP Cloud Functions. For the outset of a project, the author is convinced that fassd is more lightweight and easier to experiment with than other solutions out there.  
+  -https://releasecandidate.dev/posts/2021/discovery-faasd-and-openfaas/ 
+- **Suggestions on Doing Successful Migrations**
+  - Thoughts on the need for migrations to manage a company's technical debt as well as providing a loose framework (derisk, enable, finish) for doing migrations.
+  - https://lethain.com/migrations/
+- **Coinbase Redis Outage**
+  - Memcached reboot caused a heavier demand on Redis Cluster that it was not equipped for causing various downstream impacts like cache's needing full refreshes and a large spike in expensive queries of the cluster. 
+  - https://blog.coinbase.com/incident-post-mortem-january-29-2021-5ab5247e43da
+- **NOTAM**
+  - NOTAM stands for "Notices to airmen", the concept is for pilots to know about temporary changes to flying conditions that could affect their job. The author proposes having a single document or resource that communicates temporary conditions or changes that are important for an engineer to know about. 
+  - Although there would be some habit-building with keeping this information up to date, I think this could be a potentially useful document for pointing out the set of temporarily unusual conditions of your software systems.
+  - https://billduncan.org/notam-for-sres/
+- **More on 2021 Slack Outage** 
+  - https://slack.engineering/slacks-outage-on-january-4th-2021/
+  - Earlier Article:
+    - https://devopsish.com/pdf/Slack-Incident-Jan-04-2021-RCA-Final.pdf
+- **Introducing Engineering Levels**
+  - How a Consultancy group with a ~30 engineer team size went about establishing engineering levels.
+  - https://dafir.medium.com/how-we-introduced-levels-to-our-engineering-organisation-without-losing-people-5565218d0785
+- **Linux Learning Projects**
+  - List of projects to better learn about how different components of linux work.
+  - https://carltheperson.com/posts/10-things-linux
+- **Bundler Vulnerability**
+  - https://bundler.io/blog/2021/02/15/a-more-secure-bundler-we-fixed-our-source-priorities.html

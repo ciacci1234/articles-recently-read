@@ -1,0 +1,32 @@
+- **97 things every SRE should know**
+  - An author's highlights of the book 97 things an SRE should know.
+  - Personally, the highlights were enough for me to want to check out the book.
+  - https://www.unixdaemon.net/sysadmin/97-things-every-sre-01/
+- **A Talk on Glue Work**
+  - Glue work covers much of the work engineering teams need to get done that isn't strictly writing code. This article covers what glue work is and the pros and cons of taking on that type of work.
+  - https://noidea.dog/#/glue/
+- **Coinbase incident writeup**
+  - This one's about thundering herds and how db components got into a cycle of endlessly requesting more resources :hushed:
+  - https://blog.coinbase.com/brief-incident-post-mortem-january-6-7-2021-441f6224da93
+- **Front-end Requirements Fulfilled with HTML + CSS**
+  - The author walks through common front-end features typically implemented by JS that you can implement in HTML + CSS
+  - https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript
+- **Talk on Effective Learning Strategies (Growth vs Fixed Mindset)**
+  - https://www.youtube.com/watch?v=Mcc6JEhDSpo
+- **Cloudflare's Simulation Service: Soar**
+  - High-level overview of a service Cloudflare has recently rolled out for testing the entirety of their systems with simulations. Soar allows CF engineers to more easily set up simulations of the proposed changes to the system they are making, and also allows CF to simulation test customer-specific configurations and potential problems with those configs. Lots of network-y and infrastructure-y stuff I didn't understand, but still a good read on how a company handles testing a complex set of product offerings.
+  - https://blog.cloudflare.com/soar-simulation-for-observability-reliability-and-security/
+- **Slack RCA for Jan.4 issues**
+  - Issues with 'routing problem between network boundaries on the network of our cloud providers' caused downtime for Slack's back-end servers, which in turn exacerbated the load their provisioning service was equipped to handle, and new servers were unable to spin up. The network issues also knocked out their observability platform.
+  - I felt this RCA was a little too light in detail in terms of what issues Slack's cloud provider encountered and how it impacted their observability platform. I also would've liked to see more details on how the incident was imagined, but I guess RCA's are terse in those kinds of details vs post-mortems
+  - https://devopsish.com/pdf/Slack-Incident-Jan-04-2021-RCA-Final.pdf
+- **Algolia Incident due to TLS/SSL stuff**
+  - Useful example of the complexity of TLS/SSL and how incidents can arise from this complexity
+  - Well-said: "When things don’t work completely, it is often easier to identify what does not work rather than in situations when some things work and some things don’t."
+  - https://www.algolia.com/blog/may-30-ssl-incident/
+- **Fostering "Learn & Adapt" mindset**
+  - An SRE lead at Indeed shares his thoughts on how to promote the values espoused by resilience engineering in an organization. 
+  - https://www.infoq.com/articles/series-enhancing-resilience-2/
+- **Domain Squatting on Google**
+  - Funny little writeup on the different owners google.com variations
+  - https://thomasvds.com/bing-and-brave-are-squatting-goo-gle-domains-so-i-joined-them/

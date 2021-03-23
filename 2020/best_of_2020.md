@@ -1,0 +1,76 @@
+- **Resource of Resources: Resilience Engineering**
+  - Resilience Engineering is the pursuit of continuously evaluating and strengthening our sociotechnical systems to handle both known and unknown scenarios they might encounter. I find resilience engineering techniques very helpful for coping with surprise and encouraging an adaptive mindset when problems inevitably arise within whatever software you are developing. 
+  - https://github.com/lorin/resilience-engineering
+- **Some Drawbacks of the Cloud in ranty fashion**
+  - Rachelbythebay has many stories from their software engineering experiences, and they highlight the complexities in the field. This post is a little ranty, but serves as a useful reminder that new technologies, and new technology landscapes like relying on Amazon, Google, and Microsoft to host our distributed systems, come with inherent tradeoffs and (possibly overlooked) hazards. I particularly like reading critiques of the latest craze because it helps keep me healthily skeptical of the industry and motivated to meaningfully research new solutions.
+  - https://rachelbythebay.com/w/2020/05/06/scale/
+- **Dev's Thoughts on Managing a Scaling Scenario in a Job Interview**
+  - This post is a good walk-through of a systems design scenario you might encounter applying for a senior engineering role at a large company. I like this post particularly because the author's tone does not have the usual bluster of a "job-prep" post. I also think the post does a good job at balancing giving an overview of what an adequate answer looks like, while keeping the post relatively lightweight and letting the reader pursue the finer details of each part of the answer if needed.
+- https://deniseyu.io/2020/05/21/talking-about-software-at-scale.html
+- **Uncovering Secrets in Python Bytecode**
+  - An interesting way to learn about the internals of how python interprets code via unintentional leakage of sensitive credentials.
+  - https://blog.jse.li/posts/pyc
+- **SQL Keys in Depth**
+  - The author goes into extensive detail about the design of SQL primary keys with suggested takeaways of when to use the different types of primary keys. This article helped me better understand a fundamental piece of technology that devs use every day, hence its presence on this list.
+  - https://begriffs.com/posts/2018-01-01-sql-keys-in-depth.html
+  - Honorable Mention: https://shopify.engineering/how-to-introduce-composite-primary-keys-in-rails
+- **History of Unicode**
+  - I typically find history of internet stuff, and interesting read through, and this post was no exception.
+  - https://eng.getwisdom.io/awesome-unicode/
+- **Basics of Serialization**
+  - Serialization was another fundamental software engineering concept that for a long time, I felt I had a hazy grasp of. This blogger's entire "Advanced Beginner's" series is useful and practical, but I felt the post on serialization was particularrly helpful to highlight.
+  - https://advancedbeginners.substack.com/p/pfab-18-adventures-in-shrinking-serialized
+- **How to Build a Search Engine**
+  - Search Engines are yet another critical piece of internet technology, which I would like to have a deeper understanding of, and although I haven't yet gone through the exercise, I think this article would meet my needs.
+  - https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
+- **Database Replication**
+  - The author offers "A Primer on Database Replication", an important capability in any sufficiently resilient/robust system. 
+  - https://www.brianstorti.com/replication/
+- **Fritzfrog Botnet**
+  - I think security can often be an overlooked domain for a software engineer to familiarize themselves with, so I like to read about security stuff. This runthrough of the fritzfrog botnet was one of the highlights from 2020.
+  - https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/ 
+- **Different Types of DoS**
+  - This article takes you through evaluating different types of DoS and the risk involved with each type. 
+  - https://r2c.dev/blog/2020/understanding-and-preventing-dos-in-web-apps/
+- **The challenge with effective causal analysis**
+  - A discussion on the challenges inherent to causal analysis of breakdowns in a complex system. Two important takeaways:
+    - "Different people are likely to create different events from the flow."
+    - "Where people stop in analyzing a causal chain of decomposed events is very subjective. It can vary from individual to individual, team to team, etc…"
+  - https://resilienceroundup.com/issues/the-role-of-error-in-organizing-behaviour/
+- **Developing SLOs at Glitch**
+  - An account by an SRE at Glitch of developing SLO's. The most insightful point to me is to have product teams and user journeys inform the shaping of the SLO's. SLI's/telemetry should not be the end goal of an SLO.
+  - https://mads-hartmann.com/sre/2020/09/08/alerting-on-slos.html
+- **Different Shapes of SRE**
+  - Given that SRE has been the latest trend in operations, it is useful to have an article that discusses further what actual SRE responsibilities and team makeups actually look like.
+  - https://www.blameless.com/blog/how-to-build-an-sre-team
+- **Misuse of Webpacker in Rails Apps**
+  - Webpacker is an important front-end technology and this article shares real-world examples of the mis-use of the tool. Learning how not to use a tool is as helpful as learning how to use a tool.
+  - https://rossta.net/blog/rails-apps-overpacking-with-webpacker.html
+- **Demystifying Service Proxies, Sidecars, and Pods**
+  - Three terms I have a fuzzy understanding of, but this article is useful for clarifying those terms. The article helpfully provides a toy examples to walk through as well.
+  - https://iximiuz.com/en/posts/service-proxy-pod-sidecar-oh-my/
+- **All About Daemons**
+  - Filing under: Important tool used everyday, but never really understood. This article is a deep dive on how daemons, essentially background processes, work in unix.
+  - https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/
+- **An attempt at simple, clear, non-technical explanation of the internet**
+  - I appreciate when people try to boil down complex domains into the simplest set of concepts for a newcomer to understand. Reading these types of writeups help improve my own ability to write and communicate.
+  - https://explained-from-first-principles.com/internet/
+- **Hacking Apple**
+  - Like Incident Reports, reading developer writeups of vulnerabilities always yields at least one useful takeaway. It is a good reminder too that no system, no matter the size of the company, is 100% secure (often times very far from it)
+  - https://samcurry.net/hacking-apple/
+- **Cute Visualization on HTTPS and Fundamental Cryptography Concepts**
+  - https://howhttps.works/the-keys/
+- **One Developer's Experience working on bug bounties for 4 years**
+  - I particularly appreciated the author providing financial details of the bug bounties they were awarded. This article helps give someone an idea of what it would look like to seriously commit to spending time finding software vulnerabilities 
+  - https://blog.assetnote.io/2020/09/15/hacking-on-bug-bounties-for-four-years/
+- **OpenSSH Vulnerability**
+  - Another story about vulnerability in a tool that does a good job also teaching you about the internals of said tool.
+  - https://blog.fox-it.com/2020/11/11/decrypting-openssh-sessions-for-fun-and-profit/
+- **Big Projects Accomplished by Small Teams**
+  - I like this post as a reminder that not all impactful projects are done by a large group of people. 
+  - https://stevepulec.com/posts/small/
+- **Software Companies' Test Practices**
+  - From repo: A collection of public resources about how software companies test their software 
+  - https://github.com/abhivaikar/howtheytest
+- **A Collection of Resources on System Design**
+  - https://github.com/madd86/awesome-system-design

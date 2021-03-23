@@ -1,0 +1,22 @@
+- **Basics of Webpack for Rails**
+  - https://blog.appsignal.com/2021/02/17/using-webpacker-in-your-ruby-on-rails-app-deep-dive.html
+- **Nifty Rails Method: link_to_unless_current**
+  - https://boringrails.com/tips/rails-link-to-unless-current
+- **Wrapper around ElasticSearch for enhanced Rails use of ES**
+  - https://github.com/toptal/chewy
+- **Interviewer's Thoughts on Asking Specific Code Exercise**
+  - https://shekhargulati.com/2021/02/18/why-do-software-engineers-struggle-to-write-chunks-function/
+- **Pentesting Tool**
+  - "HTTP Enumerator"
+  - https://github.com/RedTeamPentesting/monsoon
+- **Resource of Resources: Curated List of Companies' SRE Practices**
+  - https://github.com/upgundecha/howtheysre
+- **Production Ready Checklists**
+  - https://www.blameless.com/blog/4-things-you-need-to-know-about-writing-better-production-readiness-checklists
+- **Blogger synthesis of Slack outage**
+  - Good summary of the issues Slack encountered on their 01-04-2021 outage
+  - https://surfingcomplexity.blog/2021/02/08/slacks-jan-2021-outage-a-tale-of-saturation/
+- **Initial Impressions at Honeycomb**
+  - https://www.honeycomb.io/blog/fostering-resilient-organizations-why-i-joined-honeycomb/
+- **Rails Design Patterns**
+  - https://longliveruby.com/articles/rails-design-patterns-the-big-picture

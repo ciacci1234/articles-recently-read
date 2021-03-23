@@ -1,0 +1,16 @@
+- **Generic Mitigations**
+  - Light overview of kinds of generic mitigations and their use-cases.
+  - https://www.oreilly.com/content/generic-mitigations/
+- **Thoughts on Service Ownership**
+  - https://www.pagerduty.com/blog/lets-talk-full-service-ownership/
+- **Command-Line Tools Management: Volta**
+  - https://volta.sh/
+- **IPv6 History**
+  - Thoughts from the founder of [TailScale](https://tailscale.com/) on how the history of networking led to IPv6 and the challenges with the new protocol  
+  - https://apenwarr.ca/log/20170810
+- **Looking at the Performance of 1 Million JS Pages**
+  - The article's got a takeaway section if you need a TLDR
+  - https://catchjs.com/Blog/PerformanceInTheWild
+- **Ruby Gem Spotlights**
+  - Day 4 gem about notifications, and git-reflow particularly interest me
+  - http://planetruby.github.io/gems/#25-days-of-ruby-gems---ruby-advent-calendar-2020-december-1st---december-25th
