@@ -1,0 +1,24 @@
+- **Unusual Ways of Resolving N+1 Queries**
+  - A great refresher on what N+1 queries are and how to address them. Additionally, provides some less typical, but feasible, ways to fix them.
+  - https://pawelurbanek.com/rails-n-1-queries
+- **Performance Cost of .count**
+  - Reminder article on the potential pitfalls of using ActiveRecord's `.count` method
+  - https://www.moncefbelyamani.com/the-6-characters-that-could-bring-down-your-rails-app/
+- **Interview with a founder of resilience engineering**
+  - Good thoughts on the need for systems to have a high-level of extensibility, the ability to adapt and revise in the face of unanticipated adversity. Also an important note at the end about the balance between optimizing short-term gains with long-term abilities of a system to handle surprise
+  - https://increment.com/reliability/resilience-engineering-david-woods/
+- **Vault, envconsul, k8s, cert-manager interactions gone wrong**
+  - https://gocardless.com/blog/incident-review-service-outage-on-25-october-2020/
+- **Engineering Failover Handling in Uber’s Mobile Networking Infrastructure**
+  - Good thoughts on how to gracefully handle failovers. Particularly interesting was using canary requests to facilitate transitions between using the primary and backup systems
+  - https://eng.uber.com/eng-failover-handling/
+- ****
+  - https://increment.com/reliability/observability-distributed-tracing/
+- **Good example of the surprising stories metrics can tell**
+  - https://tech.trivago.com/2020/12/04/how-to-get-fooled-by-metrics/
+- **Visual Examples of Throttle vs Debounce**
+  - Basics of JS timing functions and also the author potentially preferable alternatives to them
+  - https://tomekdev.com/posts/throttle-vs-debounce-on-real-examples
+- **Honorifics Incident**
+  - Interesting airline incident involving an incorrect measuring of passenger weight because of a software's interpretation of honorifics
+  - https://www.gov.uk/aaib-reports/aaib-investigation-to-boeing-737-8k5-g-tawg-21-july-2020

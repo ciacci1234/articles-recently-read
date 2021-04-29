@@ -15,7 +15,11 @@
 - **Some Metrics Gauging Health of Your Postgres DB**
   - Good tips on different simple measures you can carry out on your Postgres DB to see if there are any potential performance improvements
   - https://blog.crunchydata.com/blog/cleaning-up-your-postgres-database
-- ****
-  - 
-- ****
-  - 
+- **A Pause on Morning Paper and Hydro**
+  - The author The Morning Paper paused posts for the blog back in February, it is a great blog where the author gives a high-level overview of interesting comp.sci papers. Before departing, Adrian leaves us with one last paper on Hydro, a tech-stack for programming in the cloud world (programming for distributed systems) a research team at Berkeley is working on.
+  - https://blog.acolyer.org/2021/02/08/the-ants-and-the-pheromones/
+- **Nifty Things to Do with Ruby's Grep Method**
+  - https://docs.knapsackpro.com/2021/understanding-and-using-rubys-powerful-grep-method
+- **A Dev's Insight after learning about Basketball Statistics**
+  - RAPM gave the dev an appreciation for group dynamics and for making sure that metrics used to assess a situation are actually contributing to achieving the goals of the assessment 
+  - https://danfrank.ca/how-a-basketball-statistic-changed-how-i-see-the-world/?utm_source=hnblogs.substack.com

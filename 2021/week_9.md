@@ -1,0 +1,16 @@
+- ****
+  - https://seb.jambor.dev/posts/cd-is-not-a-program/
+- ****
+  - https://itnext.io/why-puma-workers-constantly-hung-and-how-we-fixed-by-discovering-the-bug-of-ruby-v2-5-8-and-v2-6-6-7fa0fd0a1958
+- ****
+  - https://tinytools.directory/
+- ****
+  - https://career-ladders.dev/
+- ****
+  - http://www.linusakesson.net/programming/tty/index.php
+- ****
+  - https://github.com/kubernetes/kubernetes/issues/89898
+- ****
+  - https://www.cybertec-postgresql.com/en/shrinking-the-storage-footprint-of-data/
+- ****
+  - 
