@@ -12,7 +12,13 @@
 - **Engineering Failover Handling in Uber’s Mobile Networking Infrastructure**
   - Good thoughts on how to gracefully handle failovers. Particularly interesting was using canary requests to facilitate transitions between using the primary and backup systems
   - https://eng.uber.com/eng-failover-handling/
-- ****
+- **Observability Journey at Glitch**
+  - Mads Hartmann has some good articles about observability, and this one written for Increment is no exception about how monitoring has evolved at Glitch over time. Couple of good tibits:
+    - "Observability is all about being able to ask questions of your systems and get answers based on the telemetry they produce"
+    - "It enhances your ability to ask questions of your systems, including ones you hadn’t originally thought to ask"
+  - Mads has a couple other articles I've linked to in the past:
+    - https://mads-hartmann.com/sre/2020/09/08/alerting-on-slos.html
+    - https://mads-hartmann.com/2019/03/01/my-first-outage.html
   - https://increment.com/reliability/observability-distributed-tracing/
 - **Good example of the surprising stories metrics can tell**
   - https://tech.trivago.com/2020/12/04/how-to-get-fooled-by-metrics/

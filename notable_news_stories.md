@@ -1,7 +1,5 @@
-- https://www.gamasutra.com/view/feature/131577/halflife_and_team_fortress_.php?page=1
 - https://www.citylab.com/equity/2019/04/hudson-yards-financing-eb5-investor-visa-program-immigration/586897/
 - http://planphilly.com/articles/2018/12/07/inside-the-philadelphia-da-s-side-hustle-selling-seized-homes-to-speculators-and-cops
-- https://mathiasbynens.be/notes/shapes-ics
 - https://www.bloomberg.com/news/articles/2018-03-20/cash-strapped-u-s-colleges-become-targets-for-chinese-companies
 - https://www.wsj.com/articles/facebook-really-is-spying-on-you-just-not-through-your-phones-mic-1520448644
 - https://www.troyhunt.com/i-wanna-go-fast-why-searching-through-500m-pwned-passwords-is-so-quick/
