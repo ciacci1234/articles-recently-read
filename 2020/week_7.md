@@ -1,7 +1,7 @@
 - **Enhanced diff terminal command**
   - https://www.jefftk.com/icdiff 
 - **Quote Tidbit on SRE responsibility**
-  - https://www.blameless.com/blog/blameless-sre-journey
+  - https://blameless.medium.com/blameless-sre-journey-37d95b6d2ca2
     - Quote starting with "The SRE team would not be responsible for production services..."
 - **Github Availability Report**
   - https://github.blog/2020-07-08-introducing-the-github-availability-report/
