@@ -1,0 +1,27 @@
+- **Reddit Outages from r/WallStreetBets**
+  - Spikes in traffic, coupled with moderator changes to the subreddit led to outages for the subreddit and surfaced some dependencies in Reddit's systems.
+  - The conclusion also has some good takeaways:
+    - One major pain point that we identified in reviewing the load-shedding parts of each response was that there wasn’t a standard for the overall process. All of the actions were taken at the discretion of incident responders.
+    - Correlating subreddit behaviors to site impact proved critical in debugging both of these incidents, and the Community team played an important role, providing insights into user behavior and communication channels to moderators. None of Community’s key contributions were kicked off by documented processes - they happened because of organic relationships and internal connections built between individual responders from engineering and Community teams.
+  - https://www.reddit.com/r/RedditEng/comments/o4y4dq/rwallstreetbets_incident_anthology_reddits_open/ 
+- **Strategic Ignorance by Companies, Strategic Knowledge by Teens**
+  - An article talking about how TikTok will feign ignorance about user's demographics while simultaneously maximizing people's time on the platform using insights from demographic data. Teens highlight the recommendation's system manipulative ways by creating different accounts with different preferences.
+  - https://points.datasociety.net/strategic-knowledge-6bbddb3f0259
+- **Digitial Solutions are Not Seamless**
+  - https://medium.com/a-new-ai-lexicon/a-new-ai-lexicon-imbrication-40b380dafa35
+- **Normalization of Deviance**
+  - Good discussion on how deviance from standard procedure and normalization of that deviance over a long period of times are often a major source of error in incidents across industries.
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2821100/
+- **Internet Consolidation as the Root Cause of Recent Akamai and Fastly Outages**
+  - An interesting article on Internet Consolidation as the root cause in recent outages of Akamai and Fastly, two companies providing a variety of hosting services like CDN, firewalls, DDOS protection, and DNS. Although I think internet services consolidation is an interesting theory, the suggested steps to mitigate it weren't convincing.
+  - https://www.circleid.com/posts/20210628-the-deeper-root-cause-of-the-fastly-and-akamai-outages/
+- **Breakdown API Responses using Value Objects**
+  - https://longliveruby.com/articles/handle-api-response-with-value-objects
+- **Spelunking Ruby Gems with Monkey Patching and Pry**
+  - Useful case study in leveraging pry and monkey patching to debug an issue within a ruby gem your application relies on. Tidbits new to me:
+    - bundle pristine
+    - pry-byebug's up and down facilities
+  - Also, authentication calls from gems might have surprising performance costs
+  - https://ideas.bywetransfer.com/story/spelunking-ruby-gems
+- **Benchmarks for your Rails App**
+  - https://github.com/zombocom/derailed_benchmarks

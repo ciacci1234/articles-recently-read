@@ -1,0 +1,14 @@
+
+  - https://blog.engineyard.com/the-ruby-unbundled-series-release-features-faster-by-slowing-down 
+  - https://boringrails.com/tips/explore-data-ruby-uniq-tally-count
+  - https://technology.doximity.com/articles/containerizing-ruby-on-rails-applications
+  - https://twitter.com/samsaffron/status/1389798580689326086
+  - https://www.cybertec-postgresql.com/en/postgresql-understanding-deadlocks/
+  - https://developers.soundcloud.com/blog/how-to-successfully-hand-over-systems
+  - https://stripe.com/blog/canonical-log-lines
+  - https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/
+- **Integration Tests vs Unit Tests**
+  - A good discussion on how murky and varied people's definitions are regarding unit testing vs integration testing. During the discussion, Fowler brings up an interesting distinction between solitary unit tests, generally relying on mocks when needed, and sociable unit tests, which rely on other objects to operate correctly
+  - Fowler also endorses an important point about testing made by a tech twitterer:
+    - People love debating what percentage of which type of tests to write, but it's a distraction. Nearly zero teams write expressive tests that establish clear boundaries, run quickly & reliably, and only fail for useful reasons. Focus on that instead. -- Justin Searls
+  - https://martinfowler.com/articles/2021-test-shapes.html

@@ -12,5 +12,9 @@
   - https://github.com/kubernetes/kubernetes/issues/89898
 - ****
   - https://www.cybertec-postgresql.com/en/shrinking-the-storage-footprint-of-data/
-- ****
-  - 
+- **Generate a bunch of tests for your API**
+  - https://github.com/Endava/cats
+- **Best Ruby Blogs**
+  - https://draft.dev/learn/ruby-blogs
+- **Performance, Stress, and Load Tests in Rails**
+  - https://blog.appsignal.com/2021/06/09/performance-stress-and-load-tests-in-rails.html
