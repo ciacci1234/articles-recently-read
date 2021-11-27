@@ -1,0 +1,16 @@
+- ****
+  - https://rootly.com/blog/what-is-an-sre
+- ****
+  - https://chrisseaton.com/truffleruby/rubykaigi21/
+- ****
+  - https://surfingcomplexity.blog/2021/09/12/knowledge-and-improvisation/
+- ****
+  - https://www.cruform.com/6-ways-system-resilience/
+- ****
+  - https://incident.io/blog/the-things-we-find-hardest-in-incident-response
+- ****
+  - https://www.infoq.com/podcasts/sre-apprentices/
+- ****
+  - 
+- ****
+  - 

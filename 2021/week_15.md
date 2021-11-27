@@ -1,0 +1,16 @@
+- ****
+  - https://www.cruform.com/sre-unique-approach-to-work/
+- ****
+  - https://jessitron.com/2021/09/26/product-teams-own-capabilities-not-only-code/
+- ****
+  - https://candost.blog/dont-assume-consensus-in-the-absence-of-objection/
+- ****
+  - https://bellmar.medium.com/engineering-teams-are-just-networks-1fc16058879a
+- ****
+  - https://medium.com/@sleevi_/path-building-vs-path-verifying-the-chain-of-pain-9fbab861d7d6
+- ****
+  - https://firehydrant.io/blog/reliability-is-not-an-engineering-metric/
+- ****
+  - https://iximiuz.com/en/posts/reverse-proxy-http-keep-alive-and-502s/
+- ****
+  - 
