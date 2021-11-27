@@ -1,4 +1,5 @@
-- ****
+- **Shell Built-Ins vs Executables **
+  - This article goes into the details of cd as a built-in function of shell as opposed to a standalone executable that shell invokes. Lots of neat stuff about the internals of how shell runs 👍
   - https://seb.jambor.dev/posts/cd-is-not-a-program/
 - ****
   - https://itnext.io/why-puma-workers-constantly-hung-and-how-we-fixed-by-discovering-the-bug-of-ruby-v2-5-8-and-v2-6-6-7fa0fd0a1958
