@@ -1,7 +1,8 @@
-- **Shell Built-Ins vs Executables **
+- **Shell Built-Ins vs Executables**
   - This article goes into the details of cd as a built-in function of shell as opposed to a standalone executable that shell invokes. Lots of neat stuff about the internals of how shell runs 👍
   - https://seb.jambor.dev/posts/cd-is-not-a-program/
-- ****
+- **Deadlock Bug in Ruby 2.5.8 and 2.6.6**
+  - A dev debugs an ActiveRecord::LockWaitTimeout issue using some interesting techniques for viewing core dumps from the process running their rails application. Some infrastructure context within which debugging took place: mysql5.7 and a Rails app running on GKE with puma as a web server
   - https://itnext.io/why-puma-workers-constantly-hung-and-how-we-fixed-by-discovering-the-bug-of-ruby-v2-5-8-and-v2-6-6-7fa0fd0a1958
 - ****
   - https://tinytools.directory/
