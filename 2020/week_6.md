@@ -11,7 +11,7 @@
 - **Using Subqueries in ActiveRecord**
   - https://pganalyze.com/blog/active-record-subqueries-rails
 - **All About Unicode**
-  - https://eng.getwisdom.io/awesome-unicode/
+  - https://web.archive.org/web/20211102223610/https://eng.getwisdom.io/awesome-unicode/
 - **Minimal CSS for 'modern' layouts**
   - https://web.dev/one-line-layouts/
 - **How to use Browser Cache for tracking users**
