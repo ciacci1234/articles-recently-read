@@ -13,4 +13,4 @@
 - ****
   - https://iximiuz.com/en/posts/reverse-proxy-http-keep-alive-and-502s/
 - ****
-  - 
+  - https://robpostonblog.wordpress.com/2021/10/02/when-safety-competes-with-profits-both-lose/

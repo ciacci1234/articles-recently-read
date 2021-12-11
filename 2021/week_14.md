@@ -11,6 +11,6 @@
 - ****
   - https://www.infoq.com/podcasts/sre-apprentices/
 - ****
-  - 
+  - https://rootly.com/blog/sre-vs-devops-what-are-the-differences
 - ****
-  - 
+  - https://www.pagerduty.com/blog/how-to-resolve-incidents-faster/
