@@ -1,5 +1,5 @@
 - **Resource of Resources: Resilience Engineering**
-  - Resilience Engineering is the pursuit of continuously evaluating and strengthening our sociotechnical systems to handle both known and unknown scenarios they might encounter. I find resilience engineering techniques very helpful for coping with surprise and encouraging an adaptive mindset when problems inevitably arise within whatever software you are developing. 
+  - Resilience Engineering is the pursuit of continuously evaluating and strengthening our sociotechnical systems to handle both known and unknown scenarios they might encounter. I find resilience engineering techniques very helpful for coping with surprise and encouraging an adaptive mindset when problems inevitably arise within whatever software you are developing.
   - https://github.com/lorin/resilience-engineering
 - **Some Drawbacks of the Cloud in ranty fashion**
   - Rachelbythebay has many stories from their software engineering experiences, and they highlight the complexities in the field. This post is a little ranty, but serves as a useful reminder that new technologies, and new technology landscapes like relying on Amazon, Google, and Microsoft to host our distributed systems, come with inherent tradeoffs and (possibly overlooked) hazards. I particularly like reading critiques of the latest craze because it helps keep me healthily skeptical of the industry and motivated to meaningfully research new solutions.
@@ -16,7 +16,7 @@
   - Honorable Mention: https://shopify.engineering/how-to-introduce-composite-primary-keys-in-rails
 - **History of Unicode**
   - I typically find history of internet stuff, and interesting read through, and this post was no exception.
-  - https://eng.getwisdom.io/awesome-unicode/
+  - https://web.archive.org/web/20211102223610/https://eng.getwisdom.io/awesome-unicode/
 - **Basics of Serialization**
   - Serialization was another fundamental software engineering concept that for a long time, I felt I had a hazy grasp of. This blogger's entire "Advanced Beginner's" series is useful and practical, but I felt the post on serialization was particularrly helpful to highlight.
   - https://advancedbeginners.substack.com/p/pfab-18-adventures-in-shrinking-serialized
@@ -24,13 +24,13 @@
   - Search Engines are yet another critical piece of internet technology, which I would like to have a deeper understanding of, and although I haven't yet gone through the exercise, I think this article would meet my needs.
   - https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
 - **Database Replication**
-  - The author offers "A Primer on Database Replication", an important capability in any sufficiently resilient/robust system. 
+  - The author offers "A Primer on Database Replication", an important capability in any sufficiently resilient/robust system.
   - https://www.brianstorti.com/replication/
 - **Fritzfrog Botnet**
   - I think security can often be an overlooked domain for a software engineer to familiarize themselves with, so I like to read about security stuff. This runthrough of the fritzfrog botnet was one of the highlights from 2020.
-  - https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/ 
+  - https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/
 - **Different Types of DoS**
-  - This article takes you through evaluating different types of DoS and the risk involved with each type. 
+  - This article takes you through evaluating different types of DoS and the risk involved with each type.
   - https://r2c.dev/blog/2020/understanding-and-preventing-dos-in-web-apps/
 - **The challenge with effective causal analysis**
   - A discussion on the challenges inherent to causal analysis of breakdowns in a complex system. Two important takeaways:
@@ -61,16 +61,16 @@
 - **Cute Visualization on HTTPS and Fundamental Cryptography Concepts**
   - https://howhttps.works/the-keys/
 - **One Developer's Experience working on bug bounties for 4 years**
-  - I particularly appreciated the author providing financial details of the bug bounties they were awarded. This article helps give someone an idea of what it would look like to seriously commit to spending time finding software vulnerabilities 
+  - I particularly appreciated the author providing financial details of the bug bounties they were awarded. This article helps give someone an idea of what it would look like to seriously commit to spending time finding software vulnerabilities
   - https://blog.assetnote.io/2020/09/15/hacking-on-bug-bounties-for-four-years/
 - **OpenSSH Vulnerability**
   - Another story about vulnerability in a tool that does a good job also teaching you about the internals of said tool.
   - https://blog.fox-it.com/2020/11/11/decrypting-openssh-sessions-for-fun-and-profit/
 - **Big Projects Accomplished by Small Teams**
-  - I like this post as a reminder that not all impactful projects are done by a large group of people. 
+  - I like this post as a reminder that not all impactful projects are done by a large group of people.
   - https://stevepulec.com/posts/small/
 - **Software Companies' Test Practices**
-  - From repo: A collection of public resources about how software companies test their software 
+  - From repo: A collection of public resources about how software companies test their software
   - https://github.com/abhivaikar/howtheytest
 - **A Collection of Resources on System Design**
   - https://github.com/madd86/awesome-system-design
