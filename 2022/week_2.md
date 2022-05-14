@@ -1,0 +1,27 @@
+- **How to Write Meaningful Retrospectives**
+  - Another "reminder piece" about considerations for how to write an effective retrospective
+  - https://www.blameless.com/incident-response/how-to-write-meaningful-retrospectives
+- **BadgerDAO Post-Mortem on Security Breach**
+  - The breach was caused by a compromised Cloudflare account which was then used to inject malicious code into a Cloudflare Worker.
+  - https://badger.com/technical-post-mortem
+- **Rails Methods: Size vs Length vs Count**
+  - Concise and clear review of the differences between the three methods.
+  - https://bhserna.com/count-size-length-active-record.html
+- **Twitch Monolith to Microservices Story**
+  - Somewhat insightful high-level overview of Twitch's journey from Monolith to Microservices
+  - My takeaways was that Twitch justified the decision to break the monolith only after they experienced performance bottlenecks and a massive growth in engineering team size
+  - https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch/
+- **A Better Question to Ask In a Retrospective**
+  - The author asserts that instead of asking, "What could we have done differently?" we should ask, "If we encounter similar symptoms in the future, what mitigating actions can we take?" This rephraming encourages a mindset where we can uncover and learn more from the incident.
+  - https://surfingcomplexity.blog/2021/11/22/what-could-we-have-done-differently/
+- **Another Template for Incident Write-Ups**
+  - https://surfingcomplexity.blog/2021/11/21/oops-writeups/
+- **Deep Dive on Ruby Symbols**
+  - Exploration of strings vs symbols, including an explanation as to why ruby has symbols. The article includes a useful overview with ruby snippets that explains how ruby parses code into an AST and then into bytecode
+  - https://dmitrytsepelev.dev/why-has-ruby-symbols
+- **Bash One-Liners**
+  - Tasks you can achieve using bash one-liners
+  - https://github.com/onceupon/Bash-Oneliner
+- **mitmproxy2swagger**
+  - From repo: Automagically reverse-engineer REST APIs via capturing traffic 
+  - https://github.com/alufers/mitmproxy2swagger

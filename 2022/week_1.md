@@ -1,0 +1,28 @@
+- **Zed: A new way to query and search structured data**
+  - The data structure implementation is a superset of JSON
+  - https://github.com/brimdata/zed
+- **JSONVisio: Online Visualization of your JSON Data**
+  - https://jsonvisio.com/editor
+- **Principles of How Complex Systems Fail**
+  - https://how.complexsystems.fail/
+- **Maybe Resource: Deployment from Scratch**
+  - Excerpt from site: Learn the core transferable skills of setting up Linux virtual servers and containers. Provision web servers and databases.
+  - https://deploymentfromscratch.com/
+- **Different Ways to Share Post-Incident Insights**
+  - https://www.jeli.io/blog/incident-analysis-101-techniques-for-sharing-incident-findings/
+- **Cheatsheet of Considerations for an Effective Incident Process**
+  - https://firehydrant.com/blog/incident-management-best-practices-before-the-incident/
+- **Opinion Piece around the Need/Purpose of Different DB Approaches**
+  - A lot of this went over my head, but my takeaway was that one type of db engine approach (OLTP) has been thought to be an approach that would eventually be succeeded by something better, but in reality the majority of use-cases and business needs can still be met using something that is OLTP-based like Postgresql
+  - https://thenewstack.io/two-sizes-fit-most-postgresql-and-clickhouse/
+- **Querying Your iMessages with SQL**
+  - Neat little walkthrough of how to leverage the fact that Apple uses a SQLite db to structure and store your iMessages.
+- **Errors Are Constructed Not Discovered**
+  - A written version of a talk from an engineer currently working at Honeycomb. The talk focuses on the idea that how we talk about errors in a complex system and the nature of errors themselves is not exclusively based in any single objective truth. With this in mind, we can craft post-incident reviews more thoughtfully.
+  - https://ferd.ca/errors-are-constructed-not-discovered.html
+- **Bumble Vulnerability**
+  - Another easy breezy story about reverse-engineering a dating app's api to expose user's private data (in this case their location)
+  - https://robertheaton.com/bumble-vulnerability/
+- **Rbsyn**
+  - From README: Given a method specification in the form of tests, type and effect annotations with RDL, this synthesizes a Ruby function that will pass the tests. 
+  - https://github.com/ngsankha/rbsyn
