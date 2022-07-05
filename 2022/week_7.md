@@ -1,0 +1,18 @@
+- **Misconfigured DB's and CIDR Blocks**
+  - A dev's writeup of scanning for and discovering a bunch of misconfigured databases. The dev's exploration was enabled in part because of the need to keep public the CIDR block addresses for various cloud provider services.
+  - https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=c336fea65436
+- **Incident Writeup: Firefox Browser**
+  - Interesting interaction between Mozilla's network tooling, Nekko, a library called viaduct, GCP updates, and HTTP3
+  - https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 

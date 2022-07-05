@@ -1,0 +1,26 @@
+- **Incident Review Best Practices**
+  - https://blog.pragmaticengineer.com/postmortem-best-practices/
+- **Essential Characteristics of a Resilient System**
+  - David Woods helped found resilience engineering as a practice, which is a way to understand and foster safety in complex systems.
+  - [PDF to David Woods Paper](https://www.researchgate.net/profile/David-Woods-19/publication/330116587_4_Essentials_of_resilience_revisited/links/5c2e448ba6fdccd6b58f871e/4-Essentials-of-resilience-revisited.pdf?origin=publication_detail)
+- **The hazards of states**
+  - A good brief explanation of how quickly the number of states that any part of your system can be in can drastically increase the amount of complexity operators of the system have to account for.
+  - https://fhur.me/posts/more-states-more-bugs
+- **How Browsers Work**
+  - A deep dive on how a browser parses and renders a page of HTML, CSS, and JS
+  - https://taligarsiel.com/Projects/howbrowserswork1.htm
+- **Timelines in Markdown**
+  - https://github.com/kochrt/markwhen
+- **Running SQLite Queries Against a CSV File**
+  - https://til.simonwillison.net/sqlite/one-line-csv-operations
+- **State Machines in Ruby**
+  - App signal post walking through a simple example of a state machine implemented in ruby and then expanding on the simple example with some popular gems that take care of state machine logic
+  - https://blog.appsignal.com/2022/06/22/state-machines-in-ruby-an-introduction.html
+- **DB Tools**
+  - https://github.com/mgramin/awesome-db-tools
+- **.fetch Gotcha in Ruby**
+  - A post about a potential gotcha when using the `Hash#fetch` method where you might accidentally execute code unnecessarily, and depending on the implementation, potentially creating unwanted side effects
+  - https://www.vector-logic.com/blog/posts/ruby-caught-out-by-fetch
+- **RFCs and Design Docs**
+  - A collection of different big companies' templates for Requests for Comment (RFC) and Design Docs
+  - https://blog.pragmaticengineer.com/rfcs-and-design-docs/
