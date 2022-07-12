@@ -4,15 +4,24 @@
 - **Incident Writeup: Firefox Browser**
   - Interesting interaction between Mozilla's network tooling, Nekko, a library called viaduct, GCP updates, and HTTP3
   - https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
+- **Thinking about a Software Dev Team's Output in Terms of Queue Theory**
+  - The article describes a hypothetical example of a bagel shop to describe some queue theory basics and then draws some paralles with software development. Also has some potentially interesting related resources at the end.
+  - https://lucasfcosta.com/2022/06/12/measure-queues-not-cycle-time.html
+- **A Breakdown of a Real Life Experience with working on SOC2 Certification**
+  - This is an approachable and thorough walk through of someone's experience getting their company SOC2 certified. I appreciated their level of pragmatism about the effort.
+  - https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/
+- **Resource of Resources: Recommended Papers for Software Developers**
+  - https://github.com/facundoolano/software-papers/
+- **Rust Exercises**  
+  - https://github.com/rust-lang/rustlings
+- **Pocketbase: Single-file Backend Service**
+  - A lightweight backend service that, according to the readme, gives you a db, an admin dashboard, user and file management, and a REST-ish api all in one file!
+  - https://github.com/pocketbase/pocketbase
+- **Dev Takeaways from Gitlab's Schema Design**
+  - The developer walks through some standard considerations a team needs to make about their database and how Gitlab handled those considerations. Some example considerations are character types, foreign key constraints, and primary key types.
+  - https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/
+- **Resource of Resources: Dev's Opinion what "Every Programmer Should Know"**
+  - The repo is an awesome-esque repo, with a wide range of topics and resources for those topics.
+  - https://github.com/mtdvio/every-programmer-should-know
+- **Octosql: Use SQL to query from multiple types of datasets**
+  - https://github.com/cube2222/octosql
