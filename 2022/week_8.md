@@ -1,16 +1,21 @@
 - **Python Stacks, Queues, and Priority Queues in Practice**
   - https://realpython.com/queue-in-python/ 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
+- **Resource of Resources: Web Developer Roadmap**
+  - More concise than others I've seen, and provides a shortlist of resources for each topic 
+  - https://andreasbm.github.io/web-skills/?compact 
+- **Explaing Code with GPT-3**
+  - A use case of machine learning I haven't seen yet, seems interesting to play around with
+  - https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/
+- **Lightweight Go Tool for HealthChecks and Notifications**
+  - https://github.com/megaease/easeprobe
+- **Lightweight Full-Text Search Library in Ruby**
+  - https://github.com/baygeldin/tantiny
+- **Charity Majors on her previous opinions about metrics**
+  - https://www.honeycomb.io/blog/truth-about-meh-trics-metrics/
+- **Visual Map of K8s Deployment**
+  - Nice and simple diagram to understand the basic moving parts
+  - https://opensource.com/article/22/3/visual-map-kubernetes-deployment
+- **Company's Values for Building Resilient Systems**
+  - https://tech.deliveryhero.com/our-reliability-manifesto/
+- **Simple Guidelines for Incident Severity Levels**
+  - https://incident.io/blog/designing-your-incident-severity-levels
