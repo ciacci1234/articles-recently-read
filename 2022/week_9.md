@@ -1,0 +1,23 @@
+- **Popular JS Programmer Wonders about SPAs**
+  - I don't know much about front-end, but I haven't understood the rise and dominance of SPA's, and this article as well as the linked articles help me get a better sense of use-cases for SPAs and when SPAs would be overkill
+  - https://htmx.org/essays/spa-alternative/
+- **Machine Learning Course**
+  - https://www.fast.ai/2022/07/21/dl-coders-22/
+- **iCloud Private Relay Vulnerability**
+  - Tricking Safari into thinking it is interacting with a web page private server ultimately allows for leakage of the client's IP address
+  - https://m-keller.com/2022-07-21-icloud-private-relay-dns-leak.html
+- **How to Organize Your Teams**
+  - Too high-level and not enough real-world examples but an interesting modification to Spotify's Squad/Chapter/Tribe model
+  - https://blog.georgovassilis.com/2022/07/10/team-topologies-fix-the-spotify-model/
+- **Google's Structured Interview**
+  - Useful for understanding how Google approaches the interview process. 
+  - https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/draft-your-interview-questions/
+- **Top Companies using Ruby**
+  - In the sea of internet chatter about "X language dying/being dead" this type of site that highlights a language's use can be a helpful reminder that internet chatter is just that.
+  - https://toprubycompanies.info/
+- **Some Reflection on Metastability in Distributed Systems Paper**
+  - I don't quite understand the use of the term metastability,but my takeaway was that this paper is in line with "resilience engineering" thinking and viewing distributed computing systems using control systems framework can shed important insight into how computing systems can fail.
+  - https://brooker.co.za/blog/2021/05/24/metastable.html
+- **Problems with a Machine Learning Dataset from Google**
+  - A reminder that any "AI"/machine learning is susceptible to the same challenges present in any other type of software/data engineering pursuit.
+  - https://www.surgehq.ai//blog/30-percent-of-googles-reddit-emotions-dataset-is-mislabeled
