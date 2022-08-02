@@ -10,7 +10,7 @@
   - Too high-level and not enough real-world examples but an interesting modification to Spotify's Squad/Chapter/Tribe model
   - https://blog.georgovassilis.com/2022/07/10/team-topologies-fix-the-spotify-model/
 - **Google's Structured Interview**
-  - Useful for understanding how Google approaches the interview process. 
+  - Useful for understanding how Google approaches the interview process.
   - https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/draft-your-interview-questions/
 - **Top Companies using Ruby**
   - In the sea of internet chatter about "X language dying/being dead" this type of site that highlights a language's use can be a helpful reminder that internet chatter is just that.
@@ -21,3 +21,6 @@
 - **Problems with a Machine Learning Dataset from Google**
   - A reminder that any "AI"/machine learning is susceptible to the same challenges present in any other type of software/data engineering pursuit.
   - https://www.surgehq.ai//blog/30-percent-of-googles-reddit-emotions-dataset-is-mislabeled
+- **Explain Shell**
+  - Site where you can paste in a shell command or commands and have them explained bit by bit
+  - https://explainshell.com/
