@@ -1,0 +1,25 @@
+- **Single-File Rails App**
+  - An interesting exercise on how you could run a rails app from the single file. Helpful for seeing a lot of the moving parts of a rails app in one spot.
+  - https://greg.molnar.io/blog/a-single-file-rails-application/ 
+- **Thoughts about Making Ruby Faster**
+  - A developer at Firefox shares his thoughts around making Ruby faster based on his experience working on runtime systems. A lot of lower-level concepts the average web dev might not have to deal with, and things like "shapes" of objects and inline caching were interesting to learn about.
+  - https://www.mgaudet.ca/technical/2022/8/9/faster-ruby-thoughts-from-the-outside
+- **Active Record Playground**
+  - Abstracts away the db wiring needed for a Rails app, so you can more quickly tinker with db schema and model relationships
+  - https://bhserna.com/active-record-playground-runner-introduction.html
+- **Overview of Tracking Users via CSS**
+  - https://csstracking.dev/
+- **How to Optimize DB Writes in Rails**
+  - Use transactions was my biggest takeaway
+  - https://devs.monade.io/how-to-optimize-db-writes-in-ruby-on-rails
+- **One Big Server**
+  - Considerations for and against using cloud infrastructure grounding the argument around the capabilities of a single modern-day server based on its specs
+  - https://specbranch.com/posts/one-big-server/
+- **Opinions on When to Use Backoff Policies and Their Effects**
+  - https://brooker.co.za/blog/2022/08/11/backoff.html
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 

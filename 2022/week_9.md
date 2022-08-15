@@ -21,3 +21,8 @@
 - **Problems with a Machine Learning Dataset from Google**
   - A reminder that any "AI"/machine learning is susceptible to the same challenges present in any other type of software/data engineering pursuit.
   - https://www.surgehq.ai//blog/30-percent-of-googles-reddit-emotions-dataset-is-mislabeled
+- **Resource of Resources: Build Your Own X**
+  - A bunch of links to tutorials for how to build your own version of fundamental tools/components of software development
+  - https://github.com/codecrafters-io/build-your-own-x
+- **High-Level Considerations for Rails-React Architecture**
+  - https://blog.appsignal.com/2022/08/03/connect-a-ruby-on-rails-app-with-react-in-a-monolith.html
