@@ -17,9 +17,12 @@
   - https://specbranch.com/posts/one-big-server/
 - **Opinions on When to Use Backoff Policies and Their Effects**
   - https://brooker.co.za/blog/2022/08/11/backoff.html
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
+- **Recommendations for Securing Your Rails App**
+  - Provides a high-level set of things to look out for in a Rails app, including ensuring SSL communication both at the app-level and at the db-level, encrypting sensitive data, especially stored in sessions, and outlining considerations when working with 3rd party vendors 
+  - https://www.bearer.com/blog/ultimate-ruby-rails-data-security
+- **A Framework for Engineering Career Growth**
+  - Has tracks for tech leads and managers and IC's and also has a nice 5 x 5 matrix to view things by 
+  - https://github.com/jorgef/engineeringladders
+- **High-Level Blurbs about Different Types of Hashing Algorithms**
+  - Particularly valuable is the use cases for each type of hashing algorithm
+  - https://notes.volution.ro/v1/2022/07/notes/1290a79c/

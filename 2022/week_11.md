@@ -1,0 +1,26 @@
+- **Some Elements of How Youtube's Home Page Recommendation Works**
+  - The video does a good job at simplifying some of the machine learning techniques youtube uses to make the decision about what videos to put on the home page for a user
+  - https://www.youtube.com/watch?v=bi-mFADlNSQ 
+- **Optimizing Bulk Imports in Rails Using Custom SQL**
+  - The video primarily talks about using custom sql to optimize a bulk import process, but the presenter is also good at contexualizing this challenge in a real-world business context.
+  - https://www.twnsnd.com/posts/how_i_100xd_bulk_import_speed_in_rails_with_some_gnarly_sql.html
+- **DB Performance in Open Source Rails Apps**
+  - A nice review of popular open-source rails apps detailing common db problems causing less than optimal performance in those apps. The problems were bucketed into the following categories:
+  - Inefficient Computation, Unnecessary Computation, Inefficient Data Accessing, Unnecessary Data Retrieval, Inefficient Rendering, Missing Fields, Missing Indexes, Content Display Trade-off, Functionality Trade-offs
+  - https://blog.acolyer.org/2018/06/28/how-\_not\_-to-structure-your-database-backed-web-applications-a-study-of-performance-bugs-in-the-wild/
+- **The Future Shape of Ruby Objects**
+  - A writeup and talk about how we could speed up Ruby by adding the concept of shapes, a concept with origins in Smalltalk, to the implemenation of a Ruby object 
+  - https://chrisseaton.com/truffleruby/rubykaigi21/
+- **React Learning Tutorials**
+  - From one of the maintainers of the redux, a comprehensive set of resources
+  - https://www.reactiflux.com/learning
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
