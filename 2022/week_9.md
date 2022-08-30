@@ -10,7 +10,7 @@
   - Too high-level and not enough real-world examples but an interesting modification to Spotify's Squad/Chapter/Tribe model
   - https://blog.georgovassilis.com/2022/07/10/team-topologies-fix-the-spotify-model/
 - **Google's Structured Interview**
-  - Useful for understanding how Google approaches the interview process. 
+  - Useful for understanding how Google approaches the interview process.
   - https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/draft-your-interview-questions/
 - **Top Companies using Ruby**
   - In the sea of internet chatter about "X language dying/being dead" this type of site that highlights a language's use can be a helpful reminder that internet chatter is just that.
@@ -26,3 +26,6 @@
   - https://github.com/codecrafters-io/build-your-own-x
 - **High-Level Considerations for Rails-React Architecture**
   - https://blog.appsignal.com/2022/08/03/connect-a-ruby-on-rails-app-with-react-in-a-monolith.html
+- **Explain Shell**
+  - Site where you can paste in a shell command or commands and have them explained bit by bit
+  - https://explainshell.com/
