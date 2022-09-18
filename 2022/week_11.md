@@ -14,13 +14,16 @@
 - **React Learning Tutorials**
   - From one of the maintainers of the redux, a comprehensive set of resources
   - https://www.reactiflux.com/learning
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
+- **Mantine: Library of React Components**
+  - https://mantine.dev/core/container/
+  - A library of React components. Kind of like a bootstrap-esque framework?
+- **A Walkthrough of a Fullstack App with a "Modern" JS stack**
+  - Useful for learning about the latest and greatest in the ever-changing world of JS : P
+  - https://foysal.it/posts/fullstack-remix-app/
+- **Query Engine for PDFs, images, etc...**
+  - https://github.com/impira/docquery 
+- **w2UI**
+  - A JSON framework for defining UI
+  - https://github.com/vitmalina/w2ui
+- **Very Big Data Dump by Insurance Companies**
+  - https://www.dolthub.com/blog/2022-09-02-a-trillion-prices/
