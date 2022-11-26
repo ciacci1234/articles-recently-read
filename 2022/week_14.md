@@ -1,0 +1,21 @@
+- **A Day in the Life of a Ruby Object**
+  - Good talk about the internals of Ruby's Garbage Collection
+  - https://www.youtube.com/watch?app=desktop&v=PuNbdfdFBjk
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 

@@ -1,0 +1,25 @@
+- **Some explanation about how a time-series db works and the consequent constraints one needs to keep in mind with them**
+  - https://www.honeycomb.io/blog/time-series-database
+- **Garbage Collection and Tracking Memory Leaks**
+  - Simple overview of how garbage collection works in Ruby
+  - https://blog.appsignal.com/2022/07/27/how-to-track-down-memory-leaks-in-ruby.html
+- **Interesting Thoughts about Mastodon**
+  - https://simonwillison.net/2022/Nov/8/mastodon-is-just-blogs/
+- **Datasette**
+  - From the site: "An open source multi-tool for exploring and publishing data"
+  - https://datasette.io/
+- **JIT vs Interpreter vs Compiler**
+  - Simple rundown of these three compilation strategies
+  - https://shopify.engineering/when-jit-faster-than-compiler
+- **The Basics of Rack**
+  - https://www.akshaykhot.com/definitive-guide-to-rack/
+- **Tech Inquiry International Cloud Report**
+  - Chunky report basically saying that lots of cash changes hands between big tech, the government, and the military and it is more than is made publicly known (are we surprised)
+  - https://www.documentcloud.org/documents/22276466-tech-inquiry-international-cloud-report
+- **Tribute To Richard Cook**
+  - A major person involved in a variety of disciplines, notably for me, safety research with regards to how complex systems fail and how people operate within complex systems  
+  - https://www.adaptivecapacitylabs.com/blog/2022/09/12/richard-cook-a-life-in-many-acts/
+- **Some basics about Rails ORM Performance and DB Indexes**
+  - https://www.honeybadger.io/blog/rails-postgresql-queries/
+- **Real-World Example of Webpack to ESBuild Migration**
+  - https://blog.arkency.com/how-i-migrated-a-rails-app-from-webpack-to-esbuild-and-got-smaller-and-faster-js-builds/

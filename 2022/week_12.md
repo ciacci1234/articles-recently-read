@@ -1,0 +1,24 @@
+- **Fuzzy Finder Library**
+  - https://github.com/leeoniya/uFuzzy
+- **Tool for Writing Slackbots**
+  - https://github.com/DonDebonair/slack-machine
+- **Tool for Programmatically Rewriting Chunks of your Ruby Codebase**
+  - https://github.com/xinminlabs/synvert-ruby
+- **Interesting Way to Visualize Git History**
+  - Seems clunky with longer files though
+  - https://githistory.xyz/
+- **DHH-companies transitioning away from cloud**
+  - The sentiment "The rent is too damn high" succinctly summarizes things here
+  - https://world.hey.com/dhh/why-we-re-leaving-the-cloud-654b47e0
+- **Real World Use Case for HTMX**
+  - https://htmx.org/essays/a-real-world-react-to-htmx-port/
+- **If you ever wanna tinker with an email extension, here's an sdk to do so**
+  - https://inboxsdk.github.io/inboxsdk-docs/
+- **Conference Talk: Reimplementing Boiled Down React**
+  - Speaker had a bit too much swagger, but overall it is a good talk on the fundamentals of what and how React does what it does
+  - https://www.youtube.com/watch?v=f2mMOiCSj5c
+- **See What JS Code Runs While Using iOS Apps**
+  - https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser
+- **Yet Another Tool for Parsing HTML**
+  - The name is honestly what got me.
+  - https://minestrone.readthedocs.io/en/latest/
