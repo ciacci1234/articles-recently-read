@@ -1,12 +1,13 @@
 - **A Day in the Life of a Ruby Object**
   - Good talk about the internals of Ruby's Garbage Collection
   - https://www.youtube.com/watch?app=desktop&v=PuNbdfdFBjk
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
+- **A Plumbers Guide to Git**
+  - Workshop series on the internals of git 
+  - https://alexwlchan.net/a-plumbers-guide-to-git/
+- **Advice on How To Drive Thoughtful Incident Reviews**
+  - https://ferd.ca/hiding-theory-in-practice.html
+- **Tool to Detect Unused CSS**
+  - https://unused-css.com/
 - ****
   - 
 - ****
