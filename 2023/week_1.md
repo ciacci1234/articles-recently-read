@@ -1,0 +1,22 @@
+- **SO Thread on Useful DevTools Functionality**
+  - This question is about how to monitor events using dev tools. Top-voted answers point out monitorEvents() and Event Listener Breakpoints
+  - https://stackoverflow.com/questions/10213703/how-do-i-view-events-fired-on-an-element-in-chrome-devtools
+- **Technical Career Growth in Broad Strokes**
+  - A general guideline on how an engineer could frame their progression as an engineer. Includes potentially useful links to some books.
+  - https://davidgomes.com/what-should-software-engineers-work-on-as-they-grow/
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
