@@ -4,14 +4,17 @@
 - **Technical Career Growth in Broad Strokes**
   - A general guideline on how an engineer could frame their progression as an engineer. Includes potentially useful links to some books.
   - https://davidgomes.com/what-should-software-engineers-work-on-as-they-grow/
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
+- **Queries for viewing Postgres configs**
+  - https://proopensource.it/blog/postgresql-configuration
+- **Pipeline Pattern for Ruby Code**
+  - https://robertfaldo.medium.com/design-patterns-in-ruby-pipeline-pattern-1532f09bced2
+- **A Day in the Life of a Ruby Object**
+  - Video going into detail on how ruby garbage collection works
+  - https://www.youtube.com/watch?v=PuNbdfdFBjk
+- **Govt Website Analysis**
+  - Breaks down the infrastructure and api used in the student loan debt application website
+  - Has a fun use of the devtools breakpoint functionality
+  - https://adhoc.team/2022/10/21/student-loan-debt-application/
 - ****
   - 
 - ****
