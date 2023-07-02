@@ -15,11 +15,14 @@
   - Breaks down the infrastructure and api used in the student loan debt application website
   - Has a fun use of the devtools breakpoint functionality
   - https://adhoc.team/2022/10/21/student-loan-debt-application/
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
+- **The LLM Craze**
+  - Some interesting llm tools
+  - https://github.com/nsarrazin/serge
+  - https://github.com/TabbyML/tabby
+- **System Design Interview Resource**
+  - Broad strokes about various system design things - didn't feel as cohesive as I would like a course to be and doesn't seem to have exercises
+  - https://github.com/karanpratapsingh/system-design
+- **System Design for Recommendations and Search**
+  - https://eugeneyan.com/writing/system-design-for-discovery/
+- **Rails Profiling from RailsConf**
+  - https://www.youtube.com/watch?v=AFpq1pDQagw
