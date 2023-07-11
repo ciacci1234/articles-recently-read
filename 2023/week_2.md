@@ -1,20 +1,22 @@
 - **Amazon Early Principles for Distributed Computing**
   - https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
+- **Tips and Tricks with Rails Console**
+  - https://www.codynorman.com/ruby/rails_console_deep_dive/
+- **Baby LLM to tinker with locally**
+  - https://github.com/jncraton/languagemodels
+- **LLM tool for talking to all the apis**
+  - https://github.com/ShishirPatil/gorilla
+- **Diagnose Misused Indices, Missing Joins, etc...**
+  - https://github.com/gregnavis/active_record_doctor
+- **Load Management Resources**
+  - https://github.com/StanzaSystems/awesome-load-management
+- **Open-sourced Uncensored LLM**
+  - https://erichartford.com/dolphin
+- **Latency Numbers Every Programmer Should Know**
+  - https://gist.github.com/hellerbarde/2843375
+- **A Primer on Powerful Numbers**
+  - Talks about how "official data" like census counts, crime rates, unemployment rates, etc...is something to think critically about rather than take as a objective reality
+  - https://datasociety.net/wp-content/uploads/2022/03/APrimerOnPowerfulNumbers_032022.pdf
+- **CSS Properties Counter**
+  - A script to see the most-used CSS properties on a website
+  - https://github.com/lazaronixon/css-properties-counter
