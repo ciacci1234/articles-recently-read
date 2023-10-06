@@ -2,14 +2,14 @@
   - https://github.com/StanzaSystems/awesome-load-management
 - **Ruby Libraries for all sorts of things**
   - https://awesome-ruby.com/
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
+- **The Benefit of Traces over Logs**
+  - https://andydote.co.uk/2023/09/19/tracing-is-better/
+- **Engineering Management**
+  - https://github.com/charlax/engineering-management
+- **React Visualized**
+  - https://react.gg/visualized
+- **Oncall Scheduling Tool**
+  - https://oncallscheduler.com/
 - ****
   - 
 - ****
