@@ -10,10 +10,10 @@
   - https://react.gg/visualized
 - **Oncall Scheduling Tool**
   - https://oncallscheduler.com/
-- ****
-  - 
-- ****
-  - 
+- **Scaling Media Uploads at Canva**
+  - https://www.canva.dev/blog/engineering/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva/
+- **Speeding Up Javascript Ecosystem**
+  - https://marvinh.dev/blog/speeding-up-javascript-ecosystem/
 - ****
   - 
 - ****
