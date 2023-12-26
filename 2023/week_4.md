@@ -1,0 +1,20 @@
+- **Playing with Local LLMs**
+  - https://kshreyas.dev/post/local-llms/
+- **VSCode Alternative to Copilot (with Local Option)**
+  - https://continue.dev/docs/walkthroughs/codellama
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 
+- ****
+  - 

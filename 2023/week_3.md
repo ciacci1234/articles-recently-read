@@ -14,7 +14,7 @@
   - https://www.canva.dev/blog/engineering/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva/
 - **Speeding Up Javascript Ecosystem**
   - https://marvinh.dev/blog/speeding-up-javascript-ecosystem/
-- ****
-  - 
-- ****
-  - 
+- **Service Level Calculator**
+  - https://blog.alexewerlof.com/p/slc
+- **Thinking Critically about Human Error**
+  - https://surfingcomplexity.blog/2023/12/10/human-error-means-they-dont-understand-how-the-system-worked/
