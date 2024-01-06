@@ -2,19 +2,20 @@
   - https://kshreyas.dev/post/local-llms/
 - **VSCode Alternative to Copilot (with Local Option)**
   - https://continue.dev/docs/walkthroughs/codellama
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
+- **How to Make LLMs Go Fast**
+  - The performance thoughts feels applicable to other types of processes beyond LLM-stuff
+  - https://vgel.me/posts/faster-inference/
+- **Evergreen Reliability Concepts**
+  - https://ferd.ca/notes/paper-four-concepts-for-resilience-engineering.html
+- **The Benefits of Background Job Queues by SLOs**
+  - https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html
+- **Neat Little Timeline Tool**
+  - https://github.com/IBM/timeline-generator/blob/main/demo/timeline.ipynb
+- **Fun Visualization About Load Balancing**
+  - https://samwho.dev/load-balancing/
+- **Evergreen Incident Analysis Principles**
+  - https://www.learningfromincidents.io/posts/how-the-video-three-analytical-traps-in-accident-investigation-helps-me-be-a-better-incident-analyst
+- **Bunch of Links for LLM Stuff**
+  - https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d 
+- **LLM Prompts Ready to Go**
+  - https://github.com/successfulstudy/promptoftheyear
