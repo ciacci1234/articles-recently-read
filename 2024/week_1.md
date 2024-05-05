@@ -7,8 +7,8 @@
   - https://jonathanwarden.com/understanding-community-notes/
 - **Review of Cross-Site Scripting Attacks**
   - https://journal.hexmos.com/domxss/
-- ****
-  - 
+- **Tracking Shell Companies**
+  - https://gijn.org/stories/tracking-shell-companies-secret-owners/ 
 - ****
   - 
 - ****
