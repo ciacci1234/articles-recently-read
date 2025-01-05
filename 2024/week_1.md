@@ -8,14 +8,15 @@
 - **Review of Cross-Site Scripting Attacks**
   - https://journal.hexmos.com/domxss/
 - **Tracking Shell Companies**
-  - https://gijn.org/stories/tracking-shell-companies-secret-owners/ 
+  - https://gijn.org/stories/tracking-shell-companies-secret-owners/
+- **Custom Internal Tools to Reduce Toil**
+  - https://softwareautomation.notion.site/What-are-some-custom-tools-you-ve-built-seen-internally-that-has-helped-your-team-succeed-in-automat-2473acb906b74c0185befb7a0527b781
+- **Ruby Courses**
+  - https://graceful.dev/garden-tours/
+  - https://avdi.codes/
+- **Awesome Oneliner Bugbounty**
+  - https://github.com/dwisiswant0/awesome-oneliner-bugbounty
+- **Good article on opportunity cost**
+  - https://www.mihaihlodec.com/posts/lost-260hours-10000dollars-with-netflix
 - ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
-- ****
-  - 
+  -
