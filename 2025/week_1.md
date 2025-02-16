@@ -1,7 +1,7 @@
-- ****
-  -
-- ****
-  -
+- **Robert Heaton - Programming Projects for Advanced Beginners**
+  - https://advancedbeginners.substack.com/p/learn-something-new-about-programming
+- **Monolith: The Recommendation System for Tiktok**
+  - https://arxiv.org/pdf/2209.07663
 - ****
   -
   -
